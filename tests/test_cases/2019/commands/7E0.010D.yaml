@@ -1,0 +1,106 @@
+command_id: 7E0.010D
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E803410D00
+  expected_values:
+    VSS: 0
+- response: 7E803410D05
+  expected_values:
+    VSS: 5
+- response: 7E803410D08
+  expected_values:
+    VSS: 8
+- response: 7E803410D09
+  expected_values:
+    VSS: 9
+- response: 7E803410D0C
+  expected_values:
+    VSS: 12
+- response: 7E803410D0E
+  expected_values:
+    VSS: 14
+- response: 7E803410D0F
+  expected_values:
+    VSS: 15
+- response: 7E803410D10
+  expected_values:
+    VSS: 16
+- response: 7E803410D12
+  expected_values:
+    VSS: 18
+- response: 7E803410D13
+  expected_values:
+    VSS: 19
+- response: 7E803410D21
+  expected_values:
+    VSS: 33
+- response: 7E803410D22
+  expected_values:
+    VSS: 34
+- response: 7E803410D24
+  expected_values:
+    VSS: 36
+- response: 7E803410D25
+  expected_values:
+    VSS: 37
+- response: 7E803410D29
+  expected_values:
+    VSS: 41
+- response: 7E803410D2A
+  expected_values:
+    VSS: 42
+- response: 7E803410D31
+  expected_values:
+    VSS: 49
+- response: 7E803410D33
+  expected_values:
+    VSS: 51
+- response: 7E803410D37
+  expected_values:
+    VSS: 55
+- response: 7E803410D38
+  expected_values:
+    VSS: 56
+- response: 7E803410D3B
+  expected_values:
+    VSS: 59
+- response: 7E803410D3F
+  expected_values:
+    VSS: 63
+- response: 7E803410D40
+  expected_values:
+    VSS: 64
+- response: 7E803410D42
+  expected_values:
+    VSS: 66
+- response: 7E803410D46
+  expected_values:
+    VSS: 70
+- response: 7E803410D47
+  expected_values:
+    VSS: 71
+- response: 7E803410D48
+  expected_values:
+    VSS: 72
+- response: 7E803410D49
+  expected_values:
+    VSS: 73
+- response: 7E803410D4D
+  expected_values:
+    VSS: 77
+- response: 7E803410D4E
+  expected_values:
+    VSS: 78
+- response: 7E803410D4F
+  expected_values:
+    VSS: 79
+- response: 7E803410D55
+  expected_values:
+    VSS: 85
+- response: 7E803410D6D
+  expected_values:
+    VSS: 109
+- response: 7E803410D7A
+  expected_values:
+    VSS: 122
