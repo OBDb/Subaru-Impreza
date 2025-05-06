@@ -49,3 +49,5 @@ supported_commands_by_ecu:
 unsupported_commands_by_ecu:
   753:
   - 753.75B.221022
+  7E0:
+  - 7E0.7E8.22002F
