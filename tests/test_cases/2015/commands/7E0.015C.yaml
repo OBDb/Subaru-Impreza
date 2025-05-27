@@ -1,0 +1,8 @@
+command_id: 7E0.015C
+test_cases:
+- response: 7E803415C3B
+  expected_values:
+    EOT: 19
+- response: 7E803415C82
+  expected_values:
+    EOT: 90
