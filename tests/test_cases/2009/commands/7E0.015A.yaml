@@ -1,8 +1,8 @@
 command_id: 7E0.015A
 test_cases:
-- response: 7E803415A00
-  expected_values:
+- expected_values:
     APP_R: 0
-- response: 7E803415A30
-  expected_values:
+  response: 7E803415A00
+- expected_values:
     APP_R: 18.82353
+  response: 7E803415A30
