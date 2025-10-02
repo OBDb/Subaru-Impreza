@@ -78,5 +78,5 @@ test_cases:
     7E8044131A553
     7E803410D00
 - expected_values:
-    CLR_DIST: 44325
-  response: 7E8044131AD25
+    CLR_DIST: 48831
+  response: 7E8044131BEBF
