@@ -12,3 +12,8 @@ test_cases:
 - expected_values:
     SUBARU_MAF_AVG: 112.83
   response: 7AA056212ED2C13
+- expected_values:
+    SUBARU_MAF_AVG: 21.68
+  response: |-
+    7E8044110086D
+    7AA056212ED0878
