@@ -9,6 +9,11 @@ test_cases:
 - expected_values:
     SUBARU_ACC_POS: 0
   response: |-
+    7E80441100143
+    7AA046210A600
+- expected_values:
+    SUBARU_ACC_POS: 0
+  response: |-
     7E80441100159
     7AA046210A600
 - expected_values:
