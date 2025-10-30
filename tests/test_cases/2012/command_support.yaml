@@ -95,7 +95,7 @@ supported_commands_by_ecu:
 unsupported_commands_by_ecu:
   "7A2":
   - 7A2.220005|t=64,fc=1:SUBARU_ECT
-  - 7A2.22002F|t=64,fc=1:SUBARU_FLI
+  - 7A2.22002F|t=64,fc=1:SUBARU_FLI_V2
   - 7A2.2210A6|t=64,fc=1:SUBARU_ACC_POS
   - 7A2.2210E7|t=64,fc=1:SUBARU_EOT
   - 7A2.221135|t=64,fc=1:SUBARU_12V_C
@@ -106,7 +106,7 @@ unsupported_commands_by_ecu:
   - 7A2.2212ED|t=64,fc=1:SUBARU_MAF_AVG
   "7E0":
   - 7E0.220005
-  - 7E0.7E8.22002F|t=64,fc=1:SUBARU_FLI_V2
+  - 7E0.7E8.22002F|t=64,fc=1:SUBARU_FLI_V3
   - 7E0.7E8.2210E5|t=64,fc=1:SUBARU_ODO
   "7E6":
   - 7E6.22106B
