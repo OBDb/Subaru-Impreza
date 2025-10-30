@@ -125,7 +125,7 @@ supported_commands_by_ecu:
 unsupported_commands_by_ecu:
   "7A2":
   - 7A2.220005|t=64,fc=1:SUBARU_ECT
-  - 7A2.22002F|t=64,fc=1:SUBARU_FLI
+  - 7A2.22002F|t=64,fc=1:SUBARU_FLI_V2
   - 7A2.2210E7|t=64,fc=1:SUBARU_EOT
   - 7A2.221135|t=64,fc=1:SUBARU_12V_C
   - 7A2.221136|t=64,fc=1:SUBARU_12V_T
@@ -134,6 +134,6 @@ unsupported_commands_by_ecu:
   - 7A2.22116A|t=64,fc=1:SUBARU_DPF_WARN_DIST
   "7E0":
   - 7E0.220005
-  - 7E0.7E8.22002F|t=64,fc=1:SUBARU_FLI_V2
+  - 7E0.7E8.22002F|t=64,fc=1:SUBARU_FLI_V3
   "7E6":
   - 7E6.22106B
