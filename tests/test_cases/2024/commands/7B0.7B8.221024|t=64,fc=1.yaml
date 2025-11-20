@@ -29,3 +29,8 @@ test_cases:
   response: |-
     7E80441100508
     7B8056210240554
+- expected_values:
+    SUBARU_FR_VSS: 1725
+  response: |-
+    7E904410C1968
+    7B80562102406BD
