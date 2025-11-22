@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     SUBARU_ACTUAL_SECONDARY_PRESSURE: 2.50043
   response: 7AB0562113A1901
+- expected_values:
+    SUBARU_ACTUAL_SECONDARY_PRESSURE: 2.60082
+  response: 7AB0562113A1A02
