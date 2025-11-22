@@ -1,6 +1,9 @@
 command_id: 7A2.7AA.2210B6
 test_cases:
 - expected_values:
+    SUBARU_OCV_DUTY_RIGHT: 0
+  response: 7AA046210B600
+- expected_values:
     SUBARU_OCV_DUTY_RIGHT: 52.15686
   response: 7AA046210B685
 - expected_values:
@@ -21,3 +24,9 @@ test_cases:
 - expected_values:
     SUBARU_OCV_DUTY_RIGHT: 54.5098
   response: 7AA046210B68B
+- expected_values:
+    SUBARU_OCV_DUTY_RIGHT: 57.2549
+  response: 7AA046210B692
+- expected_values:
+    SUBARU_OCV_DUTY_RIGHT: 58.82353
+  response: 7AA046210B696
