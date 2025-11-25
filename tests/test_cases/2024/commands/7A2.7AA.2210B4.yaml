@@ -1,8 +1,8 @@
 command_id: 7A2.7AA.2210B4
 test_cases:
 - expected_values:
-    SUBARU_INTAKE_VVT_ADVANCE_RIGHT: -18
-  response: 7AA046210B420
+    SUBARU_INTAKE_VVT_ADVANCE_RIGHT: -22
+  response: 7AA046210B41C
 - expected_values:
-    SUBARU_INTAKE_VVT_ADVANCE_RIGHT: 21
-  response: 7AA046210B447
+    SUBARU_INTAKE_VVT_ADVANCE_RIGHT: 23
+  response: 7AA046210B449
