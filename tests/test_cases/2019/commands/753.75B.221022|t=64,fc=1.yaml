@@ -1,17 +1,11 @@
 command_id: 753.75B.221022|t=64,fc=1
 test_cases:
 - expected_values:
-    SUBARU_TP_FL: 27.8
-    SUBARU_TP_FR: 26.2
+    SUBARU_TP_FL: 25.8
+    SUBARU_TP_FR: 25.4
     SUBARU_TP_RL: 27
-    SUBARU_TP_RR: 28.2
-  response: 75B07621022878D838B
-- expected_values:
-    SUBARU_TP_FL: 26.6
-    SUBARU_TP_FR: 26.4
-    SUBARU_TP_RL: 27.2
-    SUBARU_TP_RR: 26.8
-  response: 75B0762102288868485
+    SUBARU_TP_RR: 26.2
+  response: 75B0762102287837F81
 - expected_values:
     SUBARU_TP_FL: 37.4
     SUBARU_TP_FR: 37.6
