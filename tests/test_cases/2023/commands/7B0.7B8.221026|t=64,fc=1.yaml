@@ -7,5 +7,5 @@ test_cases:
     SUBARU_RR_VSS: 1011
   response: 7B80562102603F3
 - expected_values:
-    SUBARU_RR_VSS: 1581
-  response: 7B805621026062D
+    SUBARU_RR_VSS: 2059
+  response: 7B805621026080B
