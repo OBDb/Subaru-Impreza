@@ -191,6 +191,8 @@ unsupported_commands_by_ecu:
   "7C0":
   - 7C0.2129
   "7DF":
+  - 7DF.0104
+  - 7DF.0110
   - 7DF.0144
   "7E0":
   - 7E0.7E8.220005:SUBARU_COOLANT_T
