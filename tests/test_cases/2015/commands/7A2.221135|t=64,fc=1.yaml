@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     SUBARU_12V_C: 5
   response: '7E80462113585'
+- expected_values:
+    SUBARU_12V_C: 7
+  response: '7E80462113587'
