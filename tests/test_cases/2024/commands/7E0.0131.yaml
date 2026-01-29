@@ -160,8 +160,8 @@ test_cases:
     7E8044131DD0C
     7E804410C0FAC
 - expected_values:
-    CLR_DIST: 56591
-  response: 7E8044131DD0F
+    CLR_DIST: 57074
+  response: 7E8044131DEF2
 - expected_values:
     CLR_DIST: 50075
   response: |-
