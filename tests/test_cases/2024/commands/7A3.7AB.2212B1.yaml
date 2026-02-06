@@ -9,3 +9,8 @@ test_cases:
 - expected_values:
     SUBARU_ACTUAL_LINE_PRESSURE: 5.62157
   response: 7AB056212B13837
+- expected_values:
+    SUBARU_ACTUAL_LINE_PRESSURE: 0.62032
+  response: |-
+    7E80441100494
+    7AB056212B10634
