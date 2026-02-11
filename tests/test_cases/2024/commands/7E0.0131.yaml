@@ -145,9 +145,6 @@ test_cases:
     7E8044131DD0C
     7E804410C0FAC
 - expected_values:
-    CLR_DIST: 57074
-  response: 7E8044131DEF2
-- expected_values:
     CLR_DIST: 57089
   response: |-
     7E8044131DF01
@@ -157,6 +154,9 @@ test_cases:
   response: |-
     7E8044131DFBB
     7E804410C115F
+- expected_values:
+    CLR_DIST: 57515
+  response: 7E8044131E0AB
 - expected_values:
     CLR_DIST: 50075
   response: |-
