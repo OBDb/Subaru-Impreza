@@ -3,3 +3,13 @@ test_cases:
 - expected_values:
     SUBARU_CRUISE_VSS_T: 0
   response: 7AA046210E300
+- expected_values:
+    SUBARU_CRUISE_VSS_T: 0
+  response: |-
+    7E80441101317
+    7AA046210E300
+- expected_values:
+    SUBARU_CRUISE_VSS_T: 0
+  response: |-
+    7E804411014DB
+    7AA046210E300
