@@ -6,3 +6,8 @@ test_cases:
 - expected_values:
     SUBARU_EGR_STEPS: 46
   response: 7AA046210B12E
+- expected_values:
+    SUBARU_EGR_STEPS: 0
+  response: |-
+    7E80441100E59
+    7AA046210B100
