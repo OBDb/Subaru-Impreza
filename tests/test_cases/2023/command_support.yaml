@@ -49,6 +49,7 @@ supported_commands_by_ecu:
   - 7E0.0131:CLR_DIST
   - 7E0.0134:LAMBDA11_CURRENT,O2S11_CURRENT
   - 7E0.0144:EQ_RAT
+  - 7E0.015C:EOT
   - 7E0.7E8.2210E5|t=64,fc=1:SUBARU_ODO
 unsupported_commands_by_ecu:
   "746":
