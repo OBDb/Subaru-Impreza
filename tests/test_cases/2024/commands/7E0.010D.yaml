@@ -54,6 +54,12 @@ test_cases:
 - expected_values:
     VSS: 0
   response: |-
+    7E8044110019E
+    7E803410D00
+    7E804410C0CB5
+- expected_values:
+    VSS: 0
+  response: |-
     7E804411002A9
     7E803410D00
 - expected_values:
