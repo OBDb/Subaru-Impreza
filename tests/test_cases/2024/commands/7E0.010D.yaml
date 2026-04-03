@@ -39,10 +39,15 @@ test_cases:
     7E803410D1C
     7E803410D1C
 - expected_values:
-    VSS: 56
+    VSS: 29
   response: |-
-    7E803410D38
-    7E803410570
+    7E803410D1D
+    7E804410C1158
+- expected_values:
+    VSS: 104
+  response: |-
+    7E803410D68
+    7E803410583
 - expected_values:
     VSS: 128
   response: 7E803410D80
