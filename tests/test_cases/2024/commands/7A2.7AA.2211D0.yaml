@@ -6,3 +6,18 @@ test_cases:
 - expected_values:
     SUBARU_KNOCKING_SIGNAL: 255
   response: 7AA046211D0FF
+- expected_values:
+    SUBARU_KNOCKING_SIGNAL: 0
+  response: |-
+    7E80441100207
+    7AA046211D000
+- expected_values:
+    SUBARU_KNOCKING_SIGNAL: 0
+  response: |-
+    7E80441100F7C
+    7AA046211D000
+- expected_values:
+    SUBARU_KNOCKING_SIGNAL: 0
+  response: |-
+    7E8044110126B
+    7AA046211D000
