@@ -12,3 +12,8 @@ test_cases:
 - expected_values:
     SUBARU_ACTUAL_GEAR_RATIO: 2.00003
   response: 7AB0562113E0200
+- expected_values:
+    SUBARU_ACTUAL_GEAR_RATIO: 0.39063
+  response: |-
+    7E804411001E7
+    7AB0562113E0064

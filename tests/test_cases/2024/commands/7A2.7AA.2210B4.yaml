@@ -6,3 +6,8 @@ test_cases:
 - expected_values:
     SUBARU_INTAKE_VVT_ADVANCE_RIGHT: 28
   response: 7AA046210B44E
+- expected_values:
+    SUBARU_INTAKE_VVT_ADVANCE_RIGHT: 0
+  response: |-
+    7E903410583
+    7AA046210B432

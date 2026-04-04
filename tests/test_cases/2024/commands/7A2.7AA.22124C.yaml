@@ -9,5 +9,10 @@ test_cases:
 - expected_values:
     SUBARU_OIL_LEVEL_SWITCH: 255
   response: |-
+    7E8044110092B
+    7AA0462124CFF
+- expected_values:
+    SUBARU_OIL_LEVEL_SWITCH: 255
+  response: |-
     7E80441100F31
     7AA0462124CFF

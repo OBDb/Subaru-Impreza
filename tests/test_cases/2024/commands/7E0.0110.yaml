@@ -39,10 +39,10 @@ test_cases:
     7E804411004C6
     7E803410D47
 - expected_values:
-    MAF: 22.62
+    MAF: 24.36
   response: |-
-    7E804411008D6
-    7E804411008D6
+    7E804411007CA
+    7E80441100984
 - expected_values:
     MAF: 24.56
   response: |-
@@ -52,5 +52,5 @@ test_cases:
     MAF: 43.51
   response: 7E804411010FF
 - expected_values:
-    MAF: 51.47
-  response: 7E8044110141B
+    MAF: 65.26
+  response: 7E8044110197E
