@@ -10,6 +10,16 @@ test_cases:
     SUBARU_MONITOR_4: 1984
   response: 7AA056213171F00
 - expected_values:
+    SUBARU_MONITOR_4: 924.5
+  response: |-
+    7E804410C0E7A
+    7AA056213170E72
+- expected_values:
+    SUBARU_MONITOR_4: 1667.25
+  response: |-
+    7E80441100777
+    7AA056213171A0D
+- expected_values:
     SUBARU_MONITOR_4: 1981.25
   response: |-
     7E804411009CB
