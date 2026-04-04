@@ -14,3 +14,18 @@ test_cases:
   response: |-
     7E80441100112
     7AB056212B40128
+- expected_values:
+    SUBARU_AWD_SOLENOID_SET_CURRENT: 315
+  response: |-
+    7E804411012B3
+    7AB056212B4013B
+- expected_values:
+    SUBARU_AWD_SOLENOID_SET_CURRENT: 335
+  response: |-
+    7E903410D2A
+    7AB056212B4014F
+- expected_values:
+    SUBARU_AWD_SOLENOID_SET_CURRENT: 310
+  response: |-
+    7E903410D78
+    7AB056212B40136
