@@ -6,3 +6,8 @@ test_cases:
 - expected_values:
     SUBARU_TURBINE_SPEED: 5824
   response: 7AB046210CBB6
+- expected_values:
+    SUBARU_TURBINE_SPEED: 1792
+  response: |-
+    7E804410C1C6A
+    7AB046210CB38
