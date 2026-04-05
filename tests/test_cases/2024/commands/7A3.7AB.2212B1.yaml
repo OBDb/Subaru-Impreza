@@ -20,6 +20,11 @@ test_cases:
     7E8044110013F
     7AB056212B1094F
 - expected_values:
+    SUBARU_ACTUAL_LINE_PRESSURE: 1.33244
+  response: |-
+    7E80441100145
+    7AB056212B10D53
+- expected_values:
     SUBARU_ACTUAL_LINE_PRESSURE: 0.57462
   response: |-
     7E8044110073F
