@@ -15,6 +15,11 @@ test_cases:
     7E80441100146
     7AB0562113B02E3
 - expected_values:
+    SUBARU_SECONDARY_SET_CURRENT: 842
+  response: |-
+    7E804411004AB
+    7AB0562113B034A
+- expected_values:
     SUBARU_SECONDARY_SET_CURRENT: 832
   response: |-
     7E80441100E14
