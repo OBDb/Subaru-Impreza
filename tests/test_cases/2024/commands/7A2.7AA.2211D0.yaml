@@ -21,3 +21,13 @@ test_cases:
   response: |-
     7E8044110126B
     7AA046211D000
+- expected_values:
+    SUBARU_KNOCKING_SIGNAL: 0
+  response: |-
+    7E903410581
+    7AA046211D000
+- expected_values:
+    SUBARU_KNOCKING_SIGNAL: 0
+  response: |-
+    7E903410582
+    7AA046211D000
