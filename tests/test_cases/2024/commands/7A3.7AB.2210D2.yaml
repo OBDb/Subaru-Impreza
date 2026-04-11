@@ -4,8 +4,8 @@ test_cases:
     SUBARU_CVT_T: 3
   response: 7AB046210D235
 - expected_values:
-    SUBARU_CVT_T: 95
-  response: 7AB046210D291
+    SUBARU_CVT_T: 97
+  response: 7AB046210D293
 - expected_values:
     SUBARU_CVT_T: 92
   response: |-

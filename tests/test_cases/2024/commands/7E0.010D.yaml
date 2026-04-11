@@ -24,11 +24,6 @@ test_cases:
     7E803410D00
     7E80441100139
 - expected_values:
-    VSS: 0
-  response: |-
-    7E803410D00
-    7E8044110047A
-- expected_values:
     VSS: 21
   response: |-
     7E803410D15
@@ -39,23 +34,23 @@ test_cases:
     7E803410D1C
     7E803410D1C
 - expected_values:
-    VSS: 29
+    VSS: 146
   response: |-
-    7E803410D1D
-    7E804410C1158
-- expected_values:
-    VSS: 104
-  response: |-
-    7E803410D68
+    7E803410D92
     7E803410583
 - expected_values:
-    VSS: 128
-  response: 7E803410D80
+    VSS: 155
+  response: 7E803410D9B
 - expected_values:
     VSS: 0
   response: |-
     7E804410C1274
     7E803410D00
+- expected_values:
+    VSS: 156
+  response: |-
+    7E804410C3617
+    7E803410D9C
 - expected_values:
     VSS: 0
   response: |-
