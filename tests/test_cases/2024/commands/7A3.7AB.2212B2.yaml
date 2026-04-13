@@ -15,6 +15,11 @@ test_cases:
     7E804411002F8
     7AB056212B20309
 - expected_values:
+    SUBARU_LIN_SOLENOID_ACTUAL_CURRENT: 849
+  response: |-
+    7E80441100337
+    7AB056212B20351
+- expected_values:
     SUBARU_LIN_SOLENOID_ACTUAL_CURRENT: 806
   response: |-
     7E80441100FCA
