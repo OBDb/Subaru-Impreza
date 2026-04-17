@@ -8,3 +8,13 @@ test_cases:
   response: |-
     7E80441100171
     7AB056211410000
+- expected_values:
+    SUBARU_ACTUAL_PRIMARY_PRESSURE: 0
+  response: |-
+    7E903410570
+    7AB056211410000
+- expected_values:
+    SUBARU_ACTUAL_PRIMARY_PRESSURE: 0
+  response: |-
+    7E90341057B
+    7AB056211410000
