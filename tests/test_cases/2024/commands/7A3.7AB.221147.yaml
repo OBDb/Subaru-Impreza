@@ -13,3 +13,8 @@ test_cases:
   response: |-
     7E80441100559
     7AB056211470000
+- expected_values:
+    SUBARU_FRONT_WHEEL_SPEED: 0
+  response: |-
+    7E903410583
+    7AB056211470000
