@@ -19,3 +19,8 @@ test_cases:
   response: |-
     7E804411014DB
     7AA046210E300
+- expected_values:
+    SUBARU_CRUISE_VSS_T: 32
+  response: |-
+    7E903410582
+    7AA046210E320
