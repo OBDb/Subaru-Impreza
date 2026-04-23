@@ -40,11 +40,6 @@ test_cases:
     7E903410581
     7B805621025042D
 - expected_values:
-    SUBARU_FL_VSS: 1181
-  response: |-
-    7E903410582
-    7B805621025049D
-- expected_values:
     SUBARU_FL_VSS: 2192
   response: |-
     7E903410582
@@ -54,6 +49,16 @@ test_cases:
   response: |-
     7E903410D48
     7B80562102504FC
+- expected_values:
+    SUBARU_FL_VSS: 2063
+  response: |-
+    7E903410D74
+    7B805621025080F
+- expected_values:
+    SUBARU_FL_VSS: 2507
+  response: |-
+    7E903410D8D
+    7B80562102509CB
 - expected_values:
     SUBARU_FL_VSS: 787
   response: |-
