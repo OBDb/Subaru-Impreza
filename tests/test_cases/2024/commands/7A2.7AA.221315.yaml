@@ -15,7 +15,32 @@ test_cases:
     7E8044110016B
     7AA056213150C62
 - expected_values:
+    SUBARU_MONITOR_2: 1974
+  response: |-
+    7E80441100205
+    7AA056213151ED8
+- expected_values:
     SUBARU_MONITOR_2: 1904.5
   response: |-
     7E804411005EE
     7AA056213151DC2
+- expected_values:
+    SUBARU_MONITOR_2: 1465.75
+  response: |-
+    7E903410582
+    7AA0562131516E7
+- expected_values:
+    SUBARU_MONITOR_2: 1816.75
+  response: |-
+    7E903410582
+    7AA056213151C63
+- expected_values:
+    SUBARU_MONITOR_2: 1865
+  response: |-
+    7E903410583
+    7AA056213151D24
+- expected_values:
+    SUBARU_MONITOR_2: 1901.25
+  response: |-
+    7E903410583
+    7AA056213151DB5
