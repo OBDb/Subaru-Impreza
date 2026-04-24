@@ -50,10 +50,10 @@ test_cases:
     7E904410C0C7C
     7B805621027001F
 - expected_values:
-    SUBARU_RL_VSS: 2283
+    SUBARU_RL_VSS: 2469
   response: |-
-    7E904410C24A8
-    7B80562102708EB
+    7E904410C2A24
+    7B80562102709A5
 - expected_values:
     SUBARU_RL_VSS: 2063
   response: |-
