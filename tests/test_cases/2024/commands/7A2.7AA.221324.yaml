@@ -15,7 +15,17 @@ test_cases:
     7E804411008A1
     7AA0562132403E8
 - expected_values:
+    SUBARU_REMAINING_BAT_CAPACITY: 100
+  response: |-
+    7E903410583
+    7AA0562132403E8
+- expected_values:
     SUBARU_REMAINING_BAT_CAPACITY: 97
   response: |-
     7E904410C130C
     7AA0562132403CA
+- expected_values:
+    SUBARU_REMAINING_BAT_CAPACITY: 100
+  response: |-
+    7E904410C2A58
+    7AA0562132403E8

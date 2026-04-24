@@ -9,17 +9,12 @@ test_cases:
 - expected_values:
     SUBARU_KNOCKING_SIGNAL: 0
   response: |-
+    7E804411001AA
+    7AA046211D000
+- expected_values:
+    SUBARU_KNOCKING_SIGNAL: 0
+  response: |-
     7E80441100207
-    7AA046211D000
-- expected_values:
-    SUBARU_KNOCKING_SIGNAL: 0
-  response: |-
-    7E80441100F0C
-    7AA046211D000
-- expected_values:
-    SUBARU_KNOCKING_SIGNAL: 0
-  response: |-
-    7E80441100F7C
     7AA046211D000
 - expected_values:
     SUBARU_KNOCKING_SIGNAL: 0
@@ -34,10 +29,5 @@ test_cases:
 - expected_values:
     SUBARU_KNOCKING_SIGNAL: 0
   response: |-
-    7E903410582
-    7AA046211D000
-- expected_values:
-    SUBARU_KNOCKING_SIGNAL: 0
-  response: |-
-    7E903410583
+    7E903410587
     7AA046211D000
