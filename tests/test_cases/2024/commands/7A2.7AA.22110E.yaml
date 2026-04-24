@@ -9,6 +9,11 @@ test_cases:
 - expected_values:
     SUBARU_ROUGHNESS_MONITOR_4: 0
   response: |-
+    7E80441100337
+    7AA0462110E00
+- expected_values:
+    SUBARU_ROUGHNESS_MONITOR_4: 0
+  response: |-
     7E804411005E8
     7AA0462110E00
 - expected_values:
@@ -25,4 +30,19 @@ test_cases:
     SUBARU_ROUGHNESS_MONITOR_4: 0
   response: |-
     7E903410584
+    7AA0462110E00
+- expected_values:
+    SUBARU_ROUGHNESS_MONITOR_4: 0
+  response: |-
+    7E903410585
+    7AA0462110E00
+- expected_values:
+    SUBARU_ROUGHNESS_MONITOR_4: 0
+  response: |-
+    7E903410587
+    7AA0462110E00
+- expected_values:
+    SUBARU_ROUGHNESS_MONITOR_4: 0
+  response: |-
+    7E90341058E
     7AA0462110E00
