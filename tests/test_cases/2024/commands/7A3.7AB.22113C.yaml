@@ -20,6 +20,11 @@ test_cases:
     7E804411017FD
     7AB0562113C030C
 - expected_values:
+    SUBARU_SECONDARY_ACTUAL_CURRENT: 863
+  response: |-
+    7E903410582
+    7AB0562113C035F
+- expected_values:
     SUBARU_SECONDARY_ACTUAL_CURRENT: 876
   response: |-
     7E903410582
