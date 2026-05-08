@@ -8,3 +8,8 @@ test_cases:
   response: |-
     7E80441100CF4
     7AA0462124A00
+- expected_values:
+    SUBARU_CC_CANCEL_SWITCH: 0
+  response: |-
+    7E903410574
+    7AA0462124A00
