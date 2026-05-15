@@ -12,6 +12,11 @@ test_cases:
     7E90341056B
     7AA046210B692
 - expected_values:
+    SUBARU_OCV_DUTY_RIGHT: 54.5098
+  response: |-
+    7E903410583
+    7AA046210B68B
+- expected_values:
     SUBARU_OCV_DUTY_RIGHT: 53.33333
   response: |-
     7E904410C0F64
