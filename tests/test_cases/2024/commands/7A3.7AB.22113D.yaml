@@ -1,0 +1,49 @@
+command_id: 7A3.7AB.22113D
+test_cases:
+- expected_values:
+    SUBARU_TARGET_GEAR_RATIO: 0
+  response: 7AB0562113D005E
+- expected_values:
+    SUBARU_TARGET_GEAR_RATIO: 0
+  response: 7AB0562113D00FF
+- expected_values:
+    SUBARU_TARGET_GEAR_RATIO: 0.00391
+  response: 7AB0562113D0100
+- expected_values:
+    SUBARU_TARGET_GEAR_RATIO: 0.00781
+  response: 7AB0562113D0200
+- expected_values:
+    SUBARU_TARGET_GEAR_RATIO: 0.00781
+  response: |-
+    7E8044110012E
+    7AB0562113D02AF
+- expected_values:
+    SUBARU_TARGET_GEAR_RATIO: 0
+  response: |-
+    7E8044110049F
+    7AB0562113D005F
+- expected_values:
+    SUBARU_TARGET_GEAR_RATIO: 0.00391
+  response: |-
+    7E80441100898
+    7AB0562113D012A
+- expected_values:
+    SUBARU_TARGET_GEAR_RATIO: 0
+  response: |-
+    7E80441100951
+    7AB0562113D006D
+- expected_values:
+    SUBARU_TARGET_GEAR_RATIO: 0
+  response: |-
+    7E903410582
+    7AB0562113D0072
+- expected_values:
+    SUBARU_TARGET_GEAR_RATIO: 0
+  response: |-
+    7E903410583
+    7AB0562113D005F
+- expected_values:
+    SUBARU_TARGET_GEAR_RATIO: 0
+  response: |-
+    7E903410D56
+    7AB0562113D005E
