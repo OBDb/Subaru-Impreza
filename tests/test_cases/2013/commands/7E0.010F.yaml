@@ -1,0 +1,11 @@
+command_id: 7E0.010F
+test_cases:
+- expected_values:
+    IAT: 39
+  response: 7E803410F4F
+- expected_values:
+    IAT: 58
+  response: 7E803410F62
+- expected_values:
+    IAT: 59
+  response: 7E803410F63
