@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22002F|t=64,fc=1
+test_cases:
+- expected_values:
+    SUBARU_FLI: 57.2549
+  response: 7E80462002F92
