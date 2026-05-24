@@ -10,6 +10,11 @@ test_cases:
     SUBARU_PRIMARY_PULLEY_SPEED: 5646
   response: 7AB05621146160E
 - expected_values:
+    SUBARU_PRIMARY_PULLEY_SPEED: 1603
+  response: |-
+    7E8044110070E
+    7AB056211460643
+- expected_values:
     SUBARU_PRIMARY_PULLEY_SPEED: 2125
   response: |-
     7E80441100B22
