@@ -237,6 +237,8 @@ unsupported_commands_by_ecu:
   - 7A3.7AB.2210C9:SUBARU_TRANSFER_DUTY_RATIO
   "7C0":
   - 7C0.2129
+  "7DF":
+  - 7DF.0111
   "7E0":
   - 7E0.220005
   - 7E0.7E8.220005
