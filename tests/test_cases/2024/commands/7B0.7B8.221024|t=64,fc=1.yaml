@@ -25,11 +25,6 @@ test_cases:
     7E804411001F6
     7B8056210240892
 - expected_values:
-    SUBARU_FR_VSS: 2340
-  response: |-
-    7E80441100201
-    7B8056210240924
-- expected_values:
     SUBARU_FR_VSS: 383
   response: |-
     7E8044110027F
@@ -40,10 +35,15 @@ test_cases:
     7E8044110134A
     7B8056210240A24
 - expected_values:
-    SUBARU_FR_VSS: 1881
+    SUBARU_FR_VSS: 693
   response: |-
     7E903410582
-    7B8056210240759
+    7B80562102402B5
+- expected_values:
+    SUBARU_FR_VSS: 0
+  response: |-
+    7E903410583
+    7B8056210240000
 - expected_values:
     SUBARU_FR_VSS: 651
   response: |-
@@ -62,7 +62,7 @@ test_cases:
 - expected_values:
     SUBARU_FR_VSS: 0
   response: |-
-    7E904410C0BC0
+    7E904410C0000
     7B8056210240000
 - expected_values:
     SUBARU_FR_VSS: 2367
