@@ -6,3 +6,18 @@ test_cases:
 - expected_values:
     SUBARU_ROUGHNESS_MONITOR_3: 1
   response: 7AA0462110D01
+- expected_values:
+    SUBARU_ROUGHNESS_MONITOR_3: 0
+  response: |-
+    7E903410581
+    7AA0462110D00
+- expected_values:
+    SUBARU_ROUGHNESS_MONITOR_3: 0
+  response: |-
+    7E903410582
+    7AA0462110D00
+- expected_values:
+    SUBARU_ROUGHNESS_MONITOR_3: 0
+  response: |-
+    7E903410584
+    7AA0462110D00

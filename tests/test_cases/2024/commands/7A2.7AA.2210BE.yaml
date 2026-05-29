@@ -17,10 +17,10 @@ test_cases:
     7E903410582
     7AA046210BEC3
 - expected_values:
-    SUBARU_A_F_SENSOR_1: 1.52957
+    SUBARU_A_F_SENSOR_1: 0.98329
   response: |-
-    7E903410582
-    7AA046210BEC4
+    7E903410583
+    7AA046210BE7E
 - expected_values:
     SUBARU_A_F_SENSOR_1: 1.01451
   response: |-
