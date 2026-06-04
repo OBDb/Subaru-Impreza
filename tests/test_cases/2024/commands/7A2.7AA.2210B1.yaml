@@ -1,0 +1,33 @@
+command_id: 7A2.7AA.2210B1
+test_cases:
+- expected_values:
+    SUBARU_EGR_STEPS: 0
+  response: 7AA046210B100
+- expected_values:
+    SUBARU_EGR_STEPS: 46
+  response: 7AA046210B12E
+- expected_values:
+    SUBARU_EGR_STEPS: 0
+  response: |-
+    7E80441100000
+    7AA046210B100
+- expected_values:
+    SUBARU_EGR_STEPS: 5
+  response: |-
+    7E804411003B2
+    7AA046210B105
+- expected_values:
+    SUBARU_EGR_STEPS: 0
+  response: |-
+    7E80441100E59
+    7AA046210B100
+- expected_values:
+    SUBARU_EGR_STEPS: 0
+  response: |-
+    7E903410582
+    7AA046210B100
+- expected_values:
+    SUBARU_EGR_STEPS: 0
+  response: |-
+    7E903410583
+    7AA046210B100

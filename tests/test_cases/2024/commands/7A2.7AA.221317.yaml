@@ -1,0 +1,61 @@
+command_id: 7A2.7AA.221317
+test_cases:
+- expected_values:
+    SUBARU_MONITOR_4: 0
+  response: 7AA056213170000
+- expected_values:
+    SUBARU_MONITOR_4: 767.75
+  response: 7AA056213170BFF
+- expected_values:
+    SUBARU_MONITOR_4: 1984
+  response: 7AA056213171F00
+- expected_values:
+    SUBARU_MONITOR_4: 924.5
+  response: |-
+    7E804410C0E7A
+    7AA056213170E72
+- expected_values:
+    SUBARU_MONITOR_4: 1667.25
+  response: |-
+    7E80441100777
+    7AA056213171A0D
+- expected_values:
+    SUBARU_MONITOR_4: 1981.25
+  response: |-
+    7E804411009CB
+    7AA056213171EF5
+- expected_values:
+    SUBARU_MONITOR_4: 1949.75
+  response: |-
+    7E804411010D4
+    7AA056213171E77
+- expected_values:
+    SUBARU_MONITOR_4: 1971.5
+  response: |-
+    7E8044110120C
+    7AA056213171ECE
+- expected_values:
+    SUBARU_MONITOR_4: 1870
+  response: |-
+    7E903410580
+    7AA056213171D38
+- expected_values:
+    SUBARU_MONITOR_4: 1251.75
+  response: |-
+    7E903410582
+    7AA05621317138F
+- expected_values:
+    SUBARU_MONITOR_4: 1984.75
+  response: |-
+    7E903410582
+    7AA056213171F03
+- expected_values:
+    SUBARU_MONITOR_4: 1961
+  response: |-
+    7E903410583
+    7AA056213171EA4
+- expected_values:
+    SUBARU_MONITOR_4: 1993.25
+  response: |-
+    7E903410583
+    7AA056213171F25
