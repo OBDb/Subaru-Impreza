@@ -64,6 +64,7 @@ supported_commands_by_ecu:
   - 7E0.014D:MIL_TIME
   - 7E0.014E:CLR_TIME
   - 7E0.015A:APP_R
+  - 7E0.015C:EOT
   - 7E0.01A6:ODO
   - 7E0.7E8.2210E5|t=64,fc=1:SUBARU_ODO
   "7E1":
