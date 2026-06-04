@@ -21,30 +21,15 @@ test_cases:
 - expected_values:
     SUBARU_ACTUAL_PRIMARY_PRESSURE: 0
   response: |-
-    7E90341057B
-    7AB056211410000
-- expected_values:
-    SUBARU_ACTUAL_PRIMARY_PRESSURE: 0
-  response: |-
-    7E903410581
-    7AB056211410000
-- expected_values:
-    SUBARU_ACTUAL_PRIMARY_PRESSURE: 0
-  response: |-
-    7E903410582
-    7AB056211410000
-- expected_values:
-    SUBARU_ACTUAL_PRIMARY_PRESSURE: 0
-  response: |-
-    7E903410583
-    7AB056211410000
-- expected_values:
-    SUBARU_ACTUAL_PRIMARY_PRESSURE: 0
-  response: |-
     7E903410584
     7AB056211410000
 - expected_values:
     SUBARU_ACTUAL_PRIMARY_PRESSURE: 0
   response: |-
     7E903410D83
+    7AB056211410000
+- expected_values:
+    SUBARU_ACTUAL_PRIMARY_PRESSURE: 0
+  response: |-
+    7E904410C2134
     7AB056211410000
