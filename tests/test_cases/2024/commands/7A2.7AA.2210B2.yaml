@@ -7,17 +7,37 @@ test_cases:
     SUBARU_ALTERNATOR_DUTY: 86
   response: 7AA046210B256
 - expected_values:
+    SUBARU_ALTERNATOR_DUTY: 77
+  response: |-
+    7E803410582
+    7AA046210B24D
+- expected_values:
     SUBARU_ALTERNATOR_DUTY: 78
   response: |-
     7E804410C2C2B
     7AA046210B24E
+- expected_values:
+    SUBARU_ALTERNATOR_DUTY: 77
+  response: |-
+    7E80441100150
+    7AA046210B24D
 - expected_values:
     SUBARU_ALTERNATOR_DUTY: 78
   response: |-
     7E8044110030E
     7AA046210B24E
 - expected_values:
-    SUBARU_ALTERNATOR_DUTY: 78
+    SUBARU_ALTERNATOR_DUTY: 77
   response: |-
-    7E804411003AD
-    7AA046210B24E
+    7E80441100DB1
+    7AA046210B24D
+- expected_values:
+    SUBARU_ALTERNATOR_DUTY: 77
+  response: |-
+    7E903410581
+    7AA046210B24D
+- expected_values:
+    SUBARU_ALTERNATOR_DUTY: 77
+  response: |-
+    7E903410584
+    7AA046210B24D
