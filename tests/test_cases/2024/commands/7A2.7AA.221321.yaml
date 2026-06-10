@@ -30,15 +30,15 @@ test_cases:
     7E903410582
     7AA0562132138B2
 - expected_values:
-    SUBARU_BAT_TERMINAL_VOLTAGE: 14.491
-  response: |-
-    7E903410583
-    7AA05621321389B
-- expected_values:
     SUBARU_BAT_TERMINAL_VOLTAGE: 14.569
   response: |-
     7E903410583
     7AA0562132138E9
+- expected_values:
+    SUBARU_BAT_TERMINAL_VOLTAGE: 14.46
+  response: |-
+    7E903410584
+    7AA05621321387C
 - expected_values:
     SUBARU_BAT_TERMINAL_VOLTAGE: 14.502
   response: |-
