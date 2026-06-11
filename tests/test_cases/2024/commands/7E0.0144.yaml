@@ -37,15 +37,15 @@ test_cases:
     7E80441447EFC
     7E80441100BC9
 - expected_values:
-    EQ_RAT: 0.9937
-  response: |-
-    7E80441447F31
-    7E803410564
-- expected_values:
     EQ_RAT: 0.99696
   response: |-
     7E80441447F9C
     7E80341057F
+- expected_values:
+    EQ_RAT: 0.99776
+  response: |-
+    7E80441447FB6
+    7E803410D03
 - expected_values:
     EQ_RAT: 0.99821
   response: |-
