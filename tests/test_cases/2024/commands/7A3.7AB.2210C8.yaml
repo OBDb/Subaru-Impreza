@@ -37,10 +37,10 @@ test_cases:
     7E903410581
     7AB046210C8C6
 - expected_values:
-    SUBARU_LOCK_UP_DUTY_RATIO: 96
+    SUBARU_LOCK_UP_DUTY_RATIO: 0
   response: |-
     7E903410583
-    7AB046210C8C0
+    7AB046210C800
 - expected_values:
     SUBARU_LOCK_UP_DUTY_RATIO: 96
   response: |-
