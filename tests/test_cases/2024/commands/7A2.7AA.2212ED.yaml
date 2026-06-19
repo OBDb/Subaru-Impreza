@@ -35,6 +35,12 @@ test_cases:
     7E903410582
     7AA056212ED0945
 - expected_values:
+    SUBARU_MAF_AVG: 4.19
+    SUBARU_MASS_AIR_FLOW_AVERAGE: 4.19
+  response: |-
+    7E903410583
+    7AA056212ED01A3
+- expected_values:
     SUBARU_MAF_AVG: 36.59
     SUBARU_MASS_AIR_FLOW_AVERAGE: 5
   response: |-
