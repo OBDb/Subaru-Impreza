@@ -26,3 +26,8 @@ test_cases:
   response: |-
     7E8044110051E
     7AA046210A637
+- expected_values:
+    SUBARU_ACC_PEDAL_ANGLE: 0
+  response: |-
+    7E903410583
+    7AA046210A600
