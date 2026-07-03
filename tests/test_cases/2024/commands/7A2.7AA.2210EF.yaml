@@ -12,6 +12,11 @@ test_cases:
     7E804410C114A
     7AA046210EF47
 - expected_values:
+    SUBARU_EXHAUST_OCV_DUTY_LEFT: 51.76471
+  response: |-
+    7E804411003C1
+    7AA046210EF84
+- expected_values:
     SUBARU_EXHAUST_OCV_DUTY_LEFT: 54.11765
   response: |-
     7E8044110061A

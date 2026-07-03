@@ -15,6 +15,11 @@ test_cases:
     7E80441100204
     7AA056211210A8C
 - expected_values:
+    SUBARU_TARGET_ENGINE_SPEED: 800
+  response: |-
+    7E804411004CA
+    7AA056211210C80
+- expected_values:
     SUBARU_TARGET_ENGINE_SPEED: 675
   response: |-
     7E80441100ED4
