@@ -23,16 +23,6 @@ test_cases:
     7E8044110049F
     7AB0562113D005F
 - expected_values:
-    SUBARU_TARGET_GEAR_RATIO: 0.00391
-  response: |-
-    7E80441100898
-    7AB0562113D012A
-- expected_values:
-    SUBARU_TARGET_GEAR_RATIO: 0
-  response: |-
-    7E80441100951
-    7AB0562113D006D
-- expected_values:
     SUBARU_TARGET_GEAR_RATIO: 0
   response: |-
     7E903410582
@@ -57,3 +47,8 @@ test_cases:
   response: |-
     7E903410D56
     7AB0562113D005E
+- expected_values:
+    SUBARU_TARGET_GEAR_RATIO: 0
+  response: |-
+    7E904410C1DD0
+    7AB0562113D0061
