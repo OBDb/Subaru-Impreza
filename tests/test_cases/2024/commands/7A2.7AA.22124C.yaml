@@ -1,0 +1,38 @@
+command_id: 7A2.7AA.22124C
+test_cases:
+- expected_values:
+    SUBARU_OIL_LEVEL_SWITCH: 0
+  response: 7AA0462124C00
+- expected_values:
+    SUBARU_OIL_LEVEL_SWITCH: 255
+  response: 7AA0462124CFF
+- expected_values:
+    SUBARU_OIL_LEVEL_SWITCH: 255
+  response: |-
+    7E8044110023C
+    7AA0462124CFF
+- expected_values:
+    SUBARU_OIL_LEVEL_SWITCH: 255
+  response: |-
+    7E8044110092B
+    7AA0462124CFF
+- expected_values:
+    SUBARU_OIL_LEVEL_SWITCH: 255
+  response: |-
+    7E80441100F31
+    7AA0462124CFF
+- expected_values:
+    SUBARU_OIL_LEVEL_SWITCH: 255
+  response: |-
+    7E903410581
+    7AA0462124CFF
+- expected_values:
+    SUBARU_OIL_LEVEL_SWITCH: 255
+  response: |-
+    7E903410582
+    7AA0462124CFF
+- expected_values:
+    SUBARU_OIL_LEVEL_SWITCH: 255
+  response: |-
+    7E904410C1AD8
+    7AA0462124CFF

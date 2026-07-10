@@ -1,0 +1,33 @@
+command_id: 7A2.7AA.221323
+test_cases:
+- expected_values:
+    SUBARU_ESTIMATED_BAT_T: -11
+  response: 7AA05621323003A
+- expected_values:
+    SUBARU_ESTIMATED_BAT_T: 43
+  response: 7AA0562132300A6
+- expected_values:
+    SUBARU_ESTIMATED_BAT_T: 13
+  response: |-
+    7E80441100134
+    7AA05621323006A
+- expected_values:
+    SUBARU_ESTIMATED_BAT_T: 6
+  response: |-
+    7E804411004EF
+    7AA05621323005C
+- expected_values:
+    SUBARU_ESTIMATED_BAT_T: 6
+  response: |-
+    7E80441101B96
+    7AA05621323005C
+- expected_values:
+    SUBARU_ESTIMATED_BAT_T: 24.5
+  response: |-
+    7E903410582
+    7AA056213230081
+- expected_values:
+    SUBARU_ESTIMATED_BAT_T: 24
+  response: |-
+    7E903410583
+    7AA056213230080
