@@ -1,0 +1,56 @@
+command_id: 7A3.7AB.2212B4
+test_cases:
+- expected_values:
+    SUBARU_AWD_SOLENOID_SET_CURRENT: 0
+  response: 7AB056212B40000
+- expected_values:
+    SUBARU_AWD_SOLENOID_SET_CURRENT: 510
+  response: 7AB056212B401FE
+- expected_values:
+    SUBARU_AWD_SOLENOID_SET_CURRENT: 773
+  response: 7AB056212B40305
+- expected_values:
+    SUBARU_AWD_SOLENOID_SET_CURRENT: 290
+  response: |-
+    7E803410D1F
+    7AB056212B40122
+- expected_values:
+    SUBARU_AWD_SOLENOID_SET_CURRENT: 296
+  response: |-
+    7E80441100112
+    7AB056212B40128
+- expected_values:
+    SUBARU_AWD_SOLENOID_SET_CURRENT: 323
+  response: |-
+    7E804411007BB
+    7AB056212B40143
+- expected_values:
+    SUBARU_AWD_SOLENOID_SET_CURRENT: 344
+  response: |-
+    7E903410581
+    7AB056212B40158
+- expected_values:
+    SUBARU_AWD_SOLENOID_SET_CURRENT: 295
+  response: |-
+    7E903410D07
+    7AB056212B40127
+- expected_values:
+    SUBARU_AWD_SOLENOID_SET_CURRENT: 335
+  response: |-
+    7E903410D2A
+    7AB056212B4014F
+- expected_values:
+    SUBARU_AWD_SOLENOID_SET_CURRENT: 305
+  response: |-
+    7E903410D97
+    7AB056212B40131
+- expected_values:
+    SUBARU_AWD_SOLENOID_SET_CURRENT: 304
+  response: |-
+    7E904410C101C
+    7AB056212B40130
+- expected_values:
+    SUBARU_AWD_SOLENOID_SET_CURRENT: 303
+  response: |-
+    7E904410C2320
+    7AB056212B4012F
