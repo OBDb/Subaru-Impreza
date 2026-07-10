@@ -1,0 +1,81 @@
+command_id: 7B0.7B8.221025|t=64,fc=1
+test_cases:
+- expected_values:
+    SUBARU_FL_VSS: 0
+  response: 7B8056210250000
+- expected_values:
+    SUBARU_FL_VSS: 255
+  response: 7B80562102500FF
+- expected_values:
+    SUBARU_FL_VSS: 2560
+  response: 7B8056210250A00
+- expected_values:
+    SUBARU_FL_VSS: 0
+  response: |-
+    7E8044110013B
+    7B8056210250000
+- expected_values:
+    SUBARU_FL_VSS: 2154
+  response: |-
+    7E804411003FD
+    7B805621025086A
+- expected_values:
+    SUBARU_FL_VSS: 1069
+  response: |-
+    7E903410581
+    7B805621025042D
+- expected_values:
+    SUBARU_FL_VSS: 143
+  response: |-
+    7E903410582
+    7B805621025008F
+- expected_values:
+    SUBARU_FL_VSS: 2192
+  response: |-
+    7E903410582
+    7B8056210250890
+- expected_values:
+    SUBARU_FL_VSS: 0
+  response: |-
+    7E903410583
+    7B8056210250000
+- expected_values:
+    SUBARU_FL_VSS: 2596
+  response: |-
+    7E903410583
+    7B8056210250A24
+- expected_values:
+    SUBARU_FL_VSS: 0
+  response: |-
+    7E903410D00
+    7B8056210250000
+- expected_values:
+    SUBARU_FL_VSS: 2507
+  response: |-
+    7E903410D8D
+    7B80562102509CB
+- expected_values:
+    SUBARU_FL_VSS: 13
+  response: |-
+    7E904410C0BDC
+    7B805621025000D
+- expected_values:
+    SUBARU_FL_VSS: 1183
+  response: |-
+    7E904410C1368
+    7B805621025049F
+- expected_values:
+    SUBARU_FL_VSS: 2392
+  response: |-
+    7E904410C2900
+    7B8056210250958
+- expected_values:
+    SUBARU_FL_VSS: 2481
+  response: |-
+    7E904410C2A50
+    7B80562102509B1
+- expected_values:
+    SUBARU_FL_VSS: 2064
+  response: |-
+    7E904410C5714
+    7B8056210250810

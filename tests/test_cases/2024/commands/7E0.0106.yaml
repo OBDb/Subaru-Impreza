@@ -1,0 +1,122 @@
+command_id: 7E0.0106
+test_cases:
+- expected_values:
+    SHRTFT1: -29.6875
+  response: |-
+    7E80341065A
+    7E80341057F
+- expected_values:
+    SHRTFT1: -7.03125
+  response: '7E803410677'
+- expected_values:
+    SHRTFT1: -4.6875
+  response: |-
+    7E80341067A
+    7E80441100156
+    7E804410C0F34
+    7E803410D00
+    7E803410564
+    7E80441100131
+    7E804410C0EEA
+    7E803410D00
+    7E803410564
+    7E804411000DE
+    7E804410C0B33
+    7E803410D00
+    7E803410564
+    7E8044110006C
+    7E804410C04D9
+    7E803410D00
+    7E803410564
+    7E80441100051
+    7E804410C04D9
+    7E803410D00
+    7E803410564
+    7E80441100066
+    7E804410C0000
+    7E803410D00
+    7E803410563
+    7E804411002F0
+    7E804410C0000
+    7E803410D00
+    7E803410563
+    7E8044110004A
+    7E804410C0000
+- expected_values:
+    SHRTFT1: -1.5625
+  response: |-
+    7E80341067E
+    7E804410C12C8
+- expected_values:
+    SHRTFT1: -0.78125
+  response: |-
+    7E80341067F
+    7E80341053B
+- expected_values:
+    SHRTFT1: -0.78125
+  response: |-
+    7E80341067F
+    7E8044110013E
+- expected_values:
+    SHRTFT1: 0
+  response: |-
+    7E803410680
+    7E803410580
+- expected_values:
+    SHRTFT1: 0
+  response: |-
+    7E803410680
+    7E803410D00
+    7E803410581
+    7E80441100000
+    7E804410C0000
+    7E803410D00
+    7E803410581
+    7E80441100000
+    7E804410C0000
+    7E803410D00
+    7E803410581
+    7E80441100000
+    7E804410C0000
+    7E803410D00
+    7E803410581
+    7E80441100000
+    7E804410C0000
+    7E803410D00
+    7E803410581
+    7E80441100000
+    7E804410C0000
+    7E803410D00
+- expected_values:
+    SHRTFT1: 0
+  response: |-
+    7E803410680
+    7E803410D63
+- expected_values:
+    SHRTFT1: 0
+  response: |-
+    7E803410680
+    7E804410C0DCF
+- expected_values:
+    SHRTFT1: 0.78125
+  response: |-
+    7E803410681
+    7E804410C1076
+- expected_values:
+    SHRTFT1: 1.5625
+  response: |-
+    7E803410682
+    7E80441100170
+- expected_values:
+    SHRTFT1: 2.34375
+  response: |-
+    7E803410683
+    7E803410562
+- expected_values:
+    SHRTFT1: 5.46875
+  response: '7E803410687'
+- expected_values:
+    SHRTFT1: 6.25
+  response: |-
+    7E803410688
+    7E804410C19BC

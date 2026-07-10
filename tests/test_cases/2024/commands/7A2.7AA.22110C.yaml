@@ -1,0 +1,28 @@
+command_id: 7A2.7AA.22110C
+test_cases:
+- expected_values:
+    SUBARU_ROUGHNESS_MONITOR_2: 0
+  response: 7AA0462110C00
+- expected_values:
+    SUBARU_ROUGHNESS_MONITOR_2: 1
+  response: 7AA0462110C01
+- expected_values:
+    SUBARU_ROUGHNESS_MONITOR_2: 0
+  response: |-
+    7E90341057B
+    7AA0462110C00
+- expected_values:
+    SUBARU_ROUGHNESS_MONITOR_2: 0
+  response: |-
+    7E903410582
+    7AA0462110C00
+- expected_values:
+    SUBARU_ROUGHNESS_MONITOR_2: 0
+  response: |-
+    7E903410583
+    7AA0462110C00
+- expected_values:
+    SUBARU_ROUGHNESS_MONITOR_2: 0
+  response: |-
+    7E904410C10A8
+    7AA0462110C00

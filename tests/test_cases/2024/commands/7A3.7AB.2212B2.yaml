@@ -1,0 +1,46 @@
+command_id: 7A3.7AB.2212B2
+test_cases:
+- expected_values:
+    SUBARU_LIN_SOLENOID_ACTUAL_CURRENT: 0
+  response: 7AB056212B20000
+- expected_values:
+    SUBARU_LIN_SOLENOID_ACTUAL_CURRENT: 511
+  response: 7AB056212B201FF
+- expected_values:
+    SUBARU_LIN_SOLENOID_ACTUAL_CURRENT: 768
+  response: 7AB056212B20300
+- expected_values:
+    SUBARU_LIN_SOLENOID_ACTUAL_CURRENT: 777
+  response: |-
+    7E804411002F8
+    7AB056212B20309
+- expected_values:
+    SUBARU_LIN_SOLENOID_ACTUAL_CURRENT: 849
+  response: |-
+    7E80441100337
+    7AB056212B20351
+- expected_values:
+    SUBARU_LIN_SOLENOID_ACTUAL_CURRENT: 806
+  response: |-
+    7E80441100FCA
+    7AB056212B20326
+- expected_values:
+    SUBARU_LIN_SOLENOID_ACTUAL_CURRENT: 803
+  response: |-
+    7E903410582
+    7AB056212B20323
+- expected_values:
+    SUBARU_LIN_SOLENOID_ACTUAL_CURRENT: 761
+  response: |-
+    7E903410583
+    7AB056212B202F9
+- expected_values:
+    SUBARU_LIN_SOLENOID_ACTUAL_CURRENT: 845
+  response: |-
+    7E903410583
+    7AB056212B2034D
+- expected_values:
+    SUBARU_LIN_SOLENOID_ACTUAL_CURRENT: 868
+  response: |-
+    7E903410583
+    7AB056212B20364
