@@ -40,6 +40,11 @@ test_cases:
     7E80441100BA1
     7AB0562113814D0
 - expected_values:
+    SUBARU_SECONDARY_PULLEY_SPEED: 1280
+  response: |-
+    7E90341056A
+    7AB056211380500
+- expected_values:
     SUBARU_SECONDARY_PULLEY_SPEED: 2845
   response: |-
     7E903410572
