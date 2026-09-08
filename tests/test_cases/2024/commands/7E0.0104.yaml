@@ -14,11 +14,6 @@ test_cases:
     7E803410400
     7E804410C137A
 - expected_values:
-    LOAD_PCT: 24.70588
-  response: |-
-    7E80341043F
-    7E804410C1E07
-- expected_values:
     LOAD_PCT: 26.66667
   response: |-
     7E803410444
@@ -54,10 +49,10 @@ test_cases:
     7E80341048C
     7E803410D7B
 - expected_values:
-    LOAD_PCT: 57.2549
+    LOAD_PCT: 65.09804
   response: |-
-    7E803410492
-    7E80441100456
+    7E8034104A6
+    7E804410C1F3E
 - expected_values:
     LOAD_PCT: 75.68627
   response: |-
