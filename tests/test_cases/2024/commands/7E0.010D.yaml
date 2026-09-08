@@ -44,7 +44,7 @@ test_cases:
 - expected_values:
     VSS: 0
   response: |-
-    7E804410C1274
+    7E804410C0C03
     7E803410D00
 - expected_values:
     VSS: 156
