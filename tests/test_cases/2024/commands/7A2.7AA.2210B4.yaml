@@ -4,8 +4,8 @@ test_cases:
     SUBARU_INTAKE_VVT_ADVANCE_RIGHT: -27
   response: 7AA046210B417
 - expected_values:
-    SUBARU_INTAKE_VVT_ADVANCE_RIGHT: 29
-  response: 7AA046210B44F
+    SUBARU_INTAKE_VVT_ADVANCE_RIGHT: 37
+  response: 7AA046210B457
 - expected_values:
     SUBARU_INTAKE_VVT_ADVANCE_RIGHT: 21
   response: |-
