@@ -1,11 +1,11 @@
 command_id: 7B0.7B8.221027|t=64,fc=1
 test_cases:
 - expected_values:
-    SUBARU_RL_VSS: 0
+    IMPREZA_RL_VSS: 0
   response: 7B8056210270000
 - expected_values:
-    SUBARU_RL_VSS: 767
+    IMPREZA_RL_VSS: 43.14375
   response: 7B80562102702FF
 - expected_values:
-    SUBARU_RL_VSS: 2338
+    IMPREZA_RL_VSS: 131.5125
   response: 7B8056210270922
