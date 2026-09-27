@@ -13,5 +13,11 @@ test_cases:
     IMPREZA_TUMBLE_GEN_VLV_POS: 1.98
   response: 7E8046210AF63
 - expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 2.02
+  response: 7E8046210AF65
+- expected_values:
     IMPREZA_TUMBLE_GEN_VLV_POS: 3.82
   response: 7E8046210AFBF
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 3.9
+  response: 7E8046210AFC3

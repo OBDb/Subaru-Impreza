@@ -13,5 +13,11 @@ test_cases:
     IMPREZA_INT_VVT_ADVANCE_TGT: -9
   response: 7E80462128F29
 - expected_values:
+    IMPREZA_INT_VVT_ADVANCE_TGT: -5
+  response: 7E80462128F2D
+- expected_values:
     IMPREZA_INT_VVT_ADVANCE_TGT: 0
   response: 7E80462128F32
+- expected_values:
+    IMPREZA_INT_VVT_ADVANCE_TGT: 13
+  response: 7E80462128F3F

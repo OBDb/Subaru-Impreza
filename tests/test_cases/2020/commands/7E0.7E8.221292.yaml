@@ -7,8 +7,26 @@ test_cases:
     IMPREZA_EXH_VVT_RETARD_TGT_ANG: 5
   response: '7E80462129237'
 - expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 10
+  response: 7E8046212923C
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 15
+  response: '7E80462129241'
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 16
+  response: '7E80462129242'
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 18
+  response: '7E80462129244'
+- expected_values:
     IMPREZA_EXH_VVT_RETARD_TGT_ANG: 20
   response: '7E80462129246'
 - expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 21
+  response: '7E80462129247'
+- expected_values:
     IMPREZA_EXH_VVT_RETARD_TGT_ANG: 24
   response: 7E8046212924A
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 25
+  response: 7E8046212924B

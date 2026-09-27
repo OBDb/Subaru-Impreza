@@ -4,5 +4,8 @@ test_cases:
     IMPREZA_DIRECT_FUEL_INJ_TIME_2: 0
   response: '7E8056213580000'
 - expected_values:
+    IMPREZA_DIRECT_FUEL_INJ_TIME_2: 1.14
+  response: 7E805621358011D
+- expected_values:
     IMPREZA_DIRECT_FUEL_INJ_TIME_2: 1.16
   response: '7E8056213580122'
