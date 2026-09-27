@@ -4,5 +4,5 @@ test_cases:
     IMPREZA_INT_VVT_ADVANCE_TGT: -20
   response: 7E80462128F1E
 - expected_values:
-    IMPREZA_INT_VVT_ADVANCE_TGT: 10
-  response: 7E80462128F3C
+    IMPREZA_INT_VVT_ADVANCE_TGT: 19
+  response: 7E80462128F45

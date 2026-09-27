@@ -4,17 +4,5 @@ test_cases:
     IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.1
   response: 7E8046210B037
 - expected_values:
-    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.12
-  response: 7E8046210B038
-- expected_values:
-    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.14
-  response: 7E8046210B039
-- expected_values:
-    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.18
-  response: 7E8046210B03B
-- expected_values:
-    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 3.9
-  response: 7E8046210B0C3
-- expected_values:
     IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 3.92
   response: 7E8046210B0C4

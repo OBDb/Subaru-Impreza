@@ -10,5 +10,8 @@ test_cases:
     IMPREZA_SPLIT_RAT_FUEL_INJ_2: 40
   response: '7E80462135366'
 - expected_values:
+    IMPREZA_SPLIT_RAT_FUEL_INJ_2: 42.7451
+  response: 7E8046213536D
+- expected_values:
     IMPREZA_SPLIT_RAT_FUEL_INJ_2: 50.19608
   response: '7E80462135380'
