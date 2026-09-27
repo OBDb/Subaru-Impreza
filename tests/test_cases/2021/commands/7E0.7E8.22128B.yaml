@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     IMPREZA_IDLE_SPD_CTRL: -298.83
   response: 7E80562128B7520
+- expected_values:
+    IMPREZA_IDLE_SPD_CTRL: -298.83
+  response: 7E80562128B7530

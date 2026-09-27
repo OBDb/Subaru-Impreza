@@ -5,4 +5,4 @@ test_cases:
   response: 7E80562128A7515
 - expected_values:
     IMPREZA_IDLE_MAF_FEEDBACK: -298.83
-  response: 7E80562128A7564
+  response: 7E80562128A75AD
