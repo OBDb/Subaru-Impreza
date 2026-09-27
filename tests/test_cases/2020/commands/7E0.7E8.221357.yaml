@@ -4,26 +4,8 @@ test_cases:
     IMPREZA_DIRECT_FUEL_INJ_TIME_1: 0
   response: '7E8056213570000'
 - expected_values:
-    IMPREZA_DIRECT_FUEL_INJ_TIME_1: 1.168
-  response: '7E8056213570124'
-- expected_values:
-    IMPREZA_DIRECT_FUEL_INJ_TIME_1: 1.256
-  response: 7E805621357013A
-- expected_values:
-    IMPREZA_DIRECT_FUEL_INJ_TIME_1: 1.944
-  response: 7E80562135701E6
-- expected_values:
     IMPREZA_DIRECT_FUEL_INJ_TIME_1: 2.012
   response: 7E80562135701F7
 - expected_values:
-    IMPREZA_DIRECT_FUEL_INJ_TIME_1: 2.46
-  response: '7E8056213570267'
-- expected_values:
-    IMPREZA_DIRECT_FUEL_INJ_TIME_1: 2.856
-  response: 7E80562135702CA
-- expected_values:
-    IMPREZA_DIRECT_FUEL_INJ_TIME_1: 2.932
-  response: 7E80562135702DD
-- expected_values:
-    IMPREZA_DIRECT_FUEL_INJ_TIME_1: 3.02
-  response: 7E80562135702F3
+    IMPREZA_DIRECT_FUEL_INJ_TIME_1: 3.096
+  response: '7E8056213570306'

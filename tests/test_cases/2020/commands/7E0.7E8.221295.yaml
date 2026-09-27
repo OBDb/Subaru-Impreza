@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.221295
 test_cases:
 - expected_values:
+    IMPREZA_PURGE_DENSITY_LEARN: 1.55294
+  response: '7E80462129582'
+- expected_values:
     IMPREZA_PURGE_DENSITY_LEARN: 2.33412
   response: '7E80462129583'

@@ -7,6 +7,15 @@ test_cases:
     IMPREZA_EXH_VVT_RETARD_TGT: 5
   response: '7E80462129137'
 - expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 10
+  response: 7E8046212913C
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 15
+  response: '7E80462129141'
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 19
+  response: '7E80462129145'
+- expected_values:
     IMPREZA_EXH_VVT_RETARD_TGT: 21
   response: '7E80462129147'
 - expected_values:
