@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221278
+test_cases:
+- expected_values:
+    IMPREZA_SUB_ACCEL_SENS: 0.7
+  response: '7E80462127823'
+- expected_values:
+    IMPREZA_SUB_ACCEL_SENS: 0.92
+  response: 7E8046212782E
+- expected_values:
+    IMPREZA_SUB_ACCEL_SENS: 0.94
+  response: 7E8046212782F
+- expected_values:
+    IMPREZA_SUB_ACCEL_SENS: 0.96
+  response: '7E80462127830'
+- expected_values:
+    IMPREZA_SUB_ACCEL_SENS: 1.02
+  response: '7E80462127833'
+- expected_values:
+    IMPREZA_SUB_ACCEL_SENS: 1.14
+  response: '7E80462127839'
