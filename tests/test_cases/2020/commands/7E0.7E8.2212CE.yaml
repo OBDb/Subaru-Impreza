@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2212CE
+test_cases:
+- expected_values:
+    IMPREZA_AMBIENT_T_SENS_SIG: 17.5
+  response: 7E8046212CE73
+- expected_values:
+    IMPREZA_AMBIENT_T_SENS_SIG: 18
+  response: 7E8046212CE74
