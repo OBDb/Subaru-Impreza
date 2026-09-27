@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.221278
+test_cases:
+- expected_values:
+    IMPREZA_SUB_ACCEL_SENS: 0.68
+  response: '7E80462127822'
+- expected_values:
+    IMPREZA_SUB_ACCEL_SENS: 0.8
+  response: '7E80462127828'
+- expected_values:
+    IMPREZA_SUB_ACCEL_SENS: 0.86
+  response: 7E8046212782B
+- expected_values:
+    IMPREZA_SUB_ACCEL_SENS: 0.9
+  response: 7E8046212782D
+- expected_values:
+    IMPREZA_SUB_ACCEL_SENS: 0.94
+  response: 7E8046212782F
+- expected_values:
+    IMPREZA_SUB_ACCEL_SENS: 0.96
+  response: '7E80462127830'
+- expected_values:
+    IMPREZA_SUB_ACCEL_SENS: 1.04
+  response: '7E80462127834'
+- expected_values:
+    IMPREZA_SUB_ACCEL_SENS: 1.16
+  response: 7E8046212783A
+- expected_values:
+    IMPREZA_SUB_ACCEL_SENS: 1.42
+  response: '7E80462127847'
