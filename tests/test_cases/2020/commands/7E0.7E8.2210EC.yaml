@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2210EC
+test_cases:
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG: 0
+  response: 7E8046210EC32
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG: 2
+  response: 7E8046210EC34
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG: 5
+  response: 7E8046210EC37
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG: 18
+  response: 7E8046210EC44
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG: 19
+  response: 7E8046210EC45
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG: 24
+  response: 7E8046210EC4A

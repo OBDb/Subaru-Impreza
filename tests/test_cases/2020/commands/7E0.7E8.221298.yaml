@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221298
+test_cases:
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 834
+  response: '7E8056212980342'
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 1053
+  response: 7E805621298041D
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 1235
+  response: 7E80562129804D3
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 1869
+  response: 7E805621298074D

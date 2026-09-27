@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221277
+test_cases:
+- expected_values:
+    IMPREZA_MAIN_THROTTLE_SENS: 0.68
+  response: '7E80462127722'
+- expected_values:
+    IMPREZA_MAIN_THROTTLE_SENS: 0.72
+  response: '7E80462127724'
+- expected_values:
+    IMPREZA_MAIN_THROTTLE_SENS: 0.74
+  response: '7E80462127725'
+- expected_values:
+    IMPREZA_MAIN_THROTTLE_SENS: 0.78
+  response: '7E80462127727'
+- expected_values:
+    IMPREZA_MAIN_THROTTLE_SENS: 0.8
+  response: '7E80462127728'
+- expected_values:
+    IMPREZA_MAIN_THROTTLE_SENS: 0.88
+  response: 7E8046212772C
+- expected_values:
+    IMPREZA_MAIN_THROTTLE_SENS: 1.02
+  response: '7E80462127733'
+- expected_values:
+    IMPREZA_MAIN_THROTTLE_SENS: 1.04
+  response: '7E80462127734'
