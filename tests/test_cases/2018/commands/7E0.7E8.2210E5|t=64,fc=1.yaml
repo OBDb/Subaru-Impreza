@@ -25,5 +25,5 @@ test_cases:
     7E8056210E59B69
     7E803410576
 - expected_values:
-    IMPREZA_ODO: 131070
-  response: 7E8056210E5FFFF
+    IMPREZA_ODO: 104052
+  response: 7E8056210E5CB3A

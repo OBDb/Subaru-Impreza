@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.22128E
 test_cases:
 - expected_values:
-    IMPREZA_IDLE_DIRTY_THROTTLE: -298.83
+    IMPREZA_IDLE_DIRTY_THROTTLE: 0.8
   response: 7E80562128E7580
