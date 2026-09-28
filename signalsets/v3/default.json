@@ -44,7 +44,7 @@
   ]},
 { "hdr": "7A2", "rax": "7AA", "dbg": true, "cmd": {"22": "0023"}, "freq": 1,
   "signals": [
-    {"id": "IMPREZA_FRP", "path": "Fuel", "fmt": { "len": 16, "max": 65535, "unit": "kilopascal" }, "name": "Fuel rail pressure"}
+    {"id": "IMPREZA_FRP", "path": "Fuel", "fmt": { "len": 16, "max": 655350, "mul": 10, "unit": "kilopascal" }, "name": "Fuel rail pressure"}
   ]},
 { "hdr": "7A2", "rax": "7AA", "dbg": true, "cmd": {"22": "003C"}, "freq": 5,
   "signals": [
@@ -212,19 +212,19 @@
   ]},
 { "hdr": "7A2", "rax": "7AA", "dbg": true, "cmd": {"22": "112D"}, "freq": 1,
   "signals": [
-    {"id": "IMPREZA_QUANTITY_CORRECTION_1", "path": "ECU", "fmt": { "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Quantity correction cylinder #1"}
+    {"id": "IMPREZA_QUANTITY_CORRECTION_1", "path": "ECU", "fmt": { "len": 8, "max": 1.54, "min": -1, "div": 100, "add": -1, "unit": "milliseconds" }, "name": "Quantity correction cylinder #1"}
   ]},
 { "hdr": "7A2", "rax": "7AA", "dbg": true, "cmd": {"22": "112E"}, "freq": 1,
   "signals": [
-    {"id": "IMPREZA_QUANTITY_CORRECTION_2", "path": "ECU", "fmt": { "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Quantity correction cylinder #2"}
+    {"id": "IMPREZA_QUANTITY_CORRECTION_2", "path": "ECU", "fmt": { "len": 8, "max": 1.54, "min": -1, "div": 100, "add": -1, "unit": "milliseconds" }, "name": "Quantity correction cylinder #2"}
   ]},
 { "hdr": "7A2", "rax": "7AA", "dbg": true, "cmd": {"22": "112F"}, "freq": 1,
   "signals": [
-    {"id": "IMPREZA_QUANTITY_CORRECTION_3", "path": "ECU", "fmt": { "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Quantity correction cylinder #3"}
+    {"id": "IMPREZA_QUANTITY_CORRECTION_3", "path": "ECU", "fmt": { "len": 8, "max": 1.54, "min": -1, "div": 100, "add": -1, "unit": "milliseconds" }, "name": "Quantity correction cylinder #3"}
   ]},
 { "hdr": "7A2", "rax": "7AA", "dbg": true, "cmd": {"22": "1130"}, "freq": 1,
   "signals": [
-    {"id": "IMPREZA_QUANTITY_CORRECTION_4", "path": "ECU", "fmt": { "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Quantity correction cylinder #4"}
+    {"id": "IMPREZA_QUANTITY_CORRECTION_4", "path": "ECU", "fmt": { "len": 8, "max": 1.54, "min": -1, "div": 100, "add": -1, "unit": "milliseconds" }, "name": "Quantity correction cylinder #4"}
   ]},
 { "hdr": "7A2", "rax": "7AA", "dbg": true, "cmd": {"22": "1149"}, "freq": 1,
   "signals": [
@@ -264,39 +264,39 @@
   ]},
 { "hdr": "7A2", "rax": "7AA", "dbg": true, "cmd": {"22": "1158"}, "freq": 3600,
   "signals": [
-    {"id": "IMPREZA_MQI_FLV_1_1", "path": "ECU", "fmt": {           "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #1 cylinder #1"},
-    {"id": "IMPREZA_MQI_FLV_2_1", "path": "ECU", "fmt": {"bix": 8,  "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #2 cylinder #1"},
-    {"id": "IMPREZA_MQI_FLV_3_1", "path": "ECU", "fmt": {"bix": 16, "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #3 cylinder #1"},
-    {"id": "IMPREZA_MQI_FLV_4_1", "path": "ECU", "fmt": {"bix": 24, "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #4 cylinder #1"},
-    {"id": "IMPREZA_MQI_FLV_5_1", "path": "ECU", "fmt": {"bix": 32, "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #5 cylinder #1"}
+    {"id": "IMPREZA_MQI_FLV_1_1", "path": "ECU", "fmt": {           "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #1 cylinder #1"},
+    {"id": "IMPREZA_MQI_FLV_2_1", "path": "ECU", "fmt": {"bix": 8,  "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #2 cylinder #1"},
+    {"id": "IMPREZA_MQI_FLV_3_1", "path": "ECU", "fmt": {"bix": 16, "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #3 cylinder #1"},
+    {"id": "IMPREZA_MQI_FLV_4_1", "path": "ECU", "fmt": {"bix": 24, "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #4 cylinder #1"},
+    {"id": "IMPREZA_MQI_FLV_5_1", "path": "ECU", "fmt": {"bix": 32, "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #5 cylinder #1"}
   ]},
 { "hdr": "7A2", "rax": "7AA", "dbg": true, "cmd": {"22": "1159"}, "freq": 3600,
   "signals": [
-    {"id": "IMPREZA_MQI_FLV_1_2", "path": "ECU", "fmt": {           "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #1 cylinder #2"},
-    {"id": "IMPREZA_MQI_FLV_2_2", "path": "ECU", "fmt": {"bix": 8,  "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #2 cylinder #2"},
-    {"id": "IMPREZA_MQI_FLV_3_2", "path": "ECU", "fmt": {"bix": 16, "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #3 cylinder #2"},
-    {"id": "IMPREZA_MQI_FLV_4_2", "path": "ECU", "fmt": {"bix": 24, "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #4 cylinder #2"},
-    {"id": "IMPREZA_MQI_FLV_5_2", "path": "ECU", "fmt": {"bix": 32, "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #5 cylinder #2"}
+    {"id": "IMPREZA_MQI_FLV_1_2", "path": "ECU", "fmt": {           "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #1 cylinder #2"},
+    {"id": "IMPREZA_MQI_FLV_2_2", "path": "ECU", "fmt": {"bix": 8,  "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #2 cylinder #2"},
+    {"id": "IMPREZA_MQI_FLV_3_2", "path": "ECU", "fmt": {"bix": 16, "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #3 cylinder #2"},
+    {"id": "IMPREZA_MQI_FLV_4_2", "path": "ECU", "fmt": {"bix": 24, "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #4 cylinder #2"},
+    {"id": "IMPREZA_MQI_FLV_5_2", "path": "ECU", "fmt": {"bix": 32, "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #5 cylinder #2"}
   ]},
 { "hdr": "7A2", "rax": "7AA", "dbg": true, "cmd": {"22": "115A"}, "freq": 3600,
   "signals": [
-    {"id": "IMPREZA_MQI_FLV_1_3", "path": "ECU", "fmt": {           "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #1 cylinder #3"},
-    {"id": "IMPREZA_MQI_FLV_2_3", "path": "ECU", "fmt": {"bix": 8,  "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #2 cylinder #3"},
-    {"id": "IMPREZA_MQI_FLV_3_3", "path": "ECU", "fmt": {"bix": 16, "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #3 cylinder #3"},
-    {"id": "IMPREZA_MQI_FLV_4_3", "path": "ECU", "fmt": {"bix": 24, "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #4 cylinder #3"},
-    {"id": "IMPREZA_MQI_FLV_5_3", "path": "ECU", "fmt": {"bix": 32, "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #5 cylinder #3"}
+    {"id": "IMPREZA_MQI_FLV_1_3", "path": "ECU", "fmt": {           "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #1 cylinder #3"},
+    {"id": "IMPREZA_MQI_FLV_2_3", "path": "ECU", "fmt": {"bix": 8,  "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #2 cylinder #3"},
+    {"id": "IMPREZA_MQI_FLV_3_3", "path": "ECU", "fmt": {"bix": 16, "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #3 cylinder #3"},
+    {"id": "IMPREZA_MQI_FLV_4_3", "path": "ECU", "fmt": {"bix": 24, "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #4 cylinder #3"},
+    {"id": "IMPREZA_MQI_FLV_5_3", "path": "ECU", "fmt": {"bix": 32, "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #5 cylinder #3"}
   ]},
 { "hdr": "7A2", "rax": "7AA", "dbg": true, "cmd": {"22": "115B"}, "freq": 3600,
   "signals": [
-    {"id": "IMPREZA_MQI_FLV_1_4", "path": "ECU", "fmt": {           "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #1 cylinder #4"},
-    {"id": "IMPREZA_MQI_FLV_2_4", "path": "ECU", "fmt": {"bix": 8,  "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #2 cylinder #4"},
-    {"id": "IMPREZA_MQI_FLV_3_4", "path": "ECU", "fmt": {"bix": 16, "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #3 cylinder #4"},
-    {"id": "IMPREZA_MQI_FLV_4_4", "path": "ECU", "fmt": {"bix": 24, "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #4 cylinder #4"},
-    {"id": "IMPREZA_MQI_FLV_5_4", "path": "ECU", "fmt": {"bix": 32, "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #5 cylinder #4"}
+    {"id": "IMPREZA_MQI_FLV_1_4", "path": "ECU", "fmt": {           "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #1 cylinder #4"},
+    {"id": "IMPREZA_MQI_FLV_2_4", "path": "ECU", "fmt": {"bix": 8,  "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #2 cylinder #4"},
+    {"id": "IMPREZA_MQI_FLV_3_4", "path": "ECU", "fmt": {"bix": 16, "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #3 cylinder #4"},
+    {"id": "IMPREZA_MQI_FLV_4_4", "path": "ECU", "fmt": {"bix": 24, "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #4 cylinder #4"},
+    {"id": "IMPREZA_MQI_FLV_5_4", "path": "ECU", "fmt": {"bix": 32, "len": 8, "max": 0.63, "min": -0.64, "div": 200, "add": -0.64, "unit": "milliseconds" }, "name": "Micro-quantity-injection final learning value #5 cylinder #4"}
   ]},
 { "hdr": "7A2", "rax": "7AA", "dbg": true, "cmd": {"22": "1161"}, "freq": 3600,
   "signals": [
-    {"id": "IMPREZA_INDIVIDUAL_PUMP_DIFFERENCE_LEARNING_VALUE", "path": "ECU", "fmt": { "len": 16, "max": 65535, "unit": "milliamps" }, "name": "Individual pump difference learning value"}
+    {"id": "IMPREZA_INDIVIDUAL_PUMP_DIFFERENCE_LEARNING_VALUE", "path": "ECU", "fmt": { "len": 16, "max": 64535, "min": -1000, "add": -1000, "unit": "milliamps" }, "name": "Individual pump difference learning value"}
   ]},
 { "hdr": "7A2", "rax": "7AA", "dbg": true, "cmd": {"22": "1162"}, "freq": 1,
   "signals": [
@@ -392,7 +392,7 @@
   ]},
 { "hdr": "7A2", "rax": "7AA", "cmd": {"22": "1322"}, "freq": 1, "dbgfilter": { "to": 2018, "years": [2020, 2021, 2022, 2023], "from": 2026 },
   "signals": [
-    {"id": "IMPREZA_BAT_CHARGE_DISCHARGE_CURRENT", "path": "Battery", "fmt": { "len": 32, "max": 4292967.2949999999, "min": -2000, "mul": 10, "div": 10000, "add": -2000, "unit": "amps" }, "name": "Battery charge/discharge current"}
+    {"id": "IMPREZA_BAT_CHARGE_DISCHARGE_CURRENT", "path": "Battery", "fmt": { "len": 32, "max": 4292967, "min": -2000, "mul": 10, "div": 10000, "add": -2000, "unit": "amps" }, "name": "Battery charge/discharge current"}
   ]},
 { "hdr": "7A2", "rax": "7AA", "cmd": {"22": "1323"}, "freq": 5, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
@@ -440,7 +440,7 @@
   ]},
 { "hdr": "7A3", "rax": "7AB", "cmd": {"22": "113D"}, "freq": 1, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
-    {"id": "IMPREZA_TARGET_GEAR_RATIO", "path": "Transmission", "fmt": { "len": 8, "max": 0.9961089494, "mul": 256, "div": 65535, "unit": "scalar" }, "name": "Target gear ratio"}
+    {"id": "IMPREZA_TARGET_GEAR_RATIO", "path": "Transmission", "fmt": { "len": 8, "max": 0.996, "mul": 256, "div": 65535, "unit": "scalar" }, "name": "Target gear ratio"}
   ]},
 { "hdr": "7A3", "rax": "7AB", "cmd": {"22": "113E"}, "freq": 0.25, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
@@ -508,7 +508,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "10A3"}, "freq": 1,
   "signals": [
-    {"id": "IMPREZA_FUEL_INJ_1_WIDTH", "path": "Fuel", "fmt": { "len": 8, "max": 255, "unit": "milliseconds" }, "name": "Fuel injection 1 pulse width"}
+    {"id": "IMPREZA_FUEL_INJ_1_WIDTH", "path": "Fuel", "fmt": { "len": 8, "max": 65.28, "mul": 32, "div": 125, "unit": "milliseconds" }, "name": "Fuel injection 1 pulse width"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "10AC"}, "freq": 1,
   "signals": [
