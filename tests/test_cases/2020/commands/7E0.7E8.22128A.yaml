@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22128A
 test_cases:
 - expected_values:
-    IMPREZA_IDLE_MAF_FEEDBACK: -298.83
+    IMPREZA_IDLE_MAF_FEEDBACK: -0.13
   response: 7E80562128A7523
 - expected_values:
-    IMPREZA_IDLE_MAF_FEEDBACK: -298.83
+    IMPREZA_IDLE_MAF_FEEDBACK: -0.01
   response: 7E80562128A752F
 - expected_values:
-    IMPREZA_IDLE_MAF_FEEDBACK: -298.83
+    IMPREZA_IDLE_MAF_FEEDBACK: 0
   response: 7E80562128A7530

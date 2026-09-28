@@ -136,7 +136,7 @@
   ]},
 { "hdr": "7A2", "rax": "7AA", "cmd": {"22": "10E5"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023], "from": 2026 },
   "signals": [
-    {"id": "IMPREZA_ODO_7A2_10E5", "path": "Trips", "fmt": { "len": 16, "max": 131070, "mul": 2, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+    {"id": "IMPREZA_ODO_7A2_10E5", "path": "Trips", "fmt": { "len": 16, "max": 131070, "mul": 2, "nullmax": 131070, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
 { "hdr": "7A2", "rax": "7AA", "dbg": true, "cmd": {"22": "10E6"}, "freq": 1,
   "signals": [
@@ -524,7 +524,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "tmo": "64", "fcm1": true, "cmd": {"22": "10E5"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016, 2022], "from": 2025 },
   "signals": [
-    {"id": "IMPREZA_ODO", "path": "Trips", "fmt": { "len": 16, "max": 131070, "mul": 2, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+    {"id": "IMPREZA_ODO", "path": "Trips", "fmt": { "len": 16, "max": 131070, "mul": 2, "nullmax": 131070, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10E7"}, "freq": 5, "dbgfilter": { "to": 2014, "from": 2016 },
   "signals": [
@@ -580,15 +580,15 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1289"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2022 },
   "signals": [
-    {"id": "IMPREZA_IDLE_MAF", "path": "Engine", "fmt": { "len": 8, "max": -297.45, "min": -300, "div": 100, "add": -300, "unit": "gramsPerSecond" }, "name": "Idle mass air flow"}
+    {"id": "IMPREZA_IDLE_MAF", "path": "Engine", "fmt": { "len": 16, "max": 655, "div": 100, "unit": "gramsPerSecond" }, "name": "Idle mass air flow"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "128A"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2022 },
   "signals": [
-    {"id": "IMPREZA_IDLE_MAF_FEEDBACK", "path": "Engine", "fmt": { "len": 8, "max": -297.45, "min": -300, "div": 100, "add": -300, "unit": "gramsPerSecond" }, "name": "Idle mass air flow feedback correction"}
+    {"id": "IMPREZA_IDLE_MAF_FEEDBACK", "path": "Engine", "fmt": { "len": 16, "max": 355, "min": -300, "div": 100, "add": -300, "unit": "gramsPerSecond" }, "name": "Idle mass air flow feedback correction"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "128B"}, "freq": 3600, "dbgfilter": { "to": 2019, "from": 2022 },
   "signals": [
-    {"id": "IMPREZA_IDLE_SPD_CTRL", "path": "Engine", "fmt": { "len": 8, "max": -297.45, "min": -300, "div": 100, "add": -300, "unit": "gramsPerSecond" }, "name": "Idle speed control learning value"}
+    {"id": "IMPREZA_IDLE_SPD_CTRL", "path": "Engine", "fmt": { "len": 16, "max": 355, "min": -300, "div": 100, "add": -300, "unit": "gramsPerSecond" }, "name": "Idle speed control learning value"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "128C"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2022 },
   "signals": [
@@ -600,7 +600,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "128E"}, "freq": 0.25, "dbgfilter": { "to": 2019, "from": 2022 },
   "signals": [
-    {"id": "IMPREZA_IDLE_DIRTY_THROTTLE", "path": "Engine", "fmt": { "len": 8, "max": -297.45, "min": -300, "div": 100, "add": -300, "unit": "gramsPerSecond" }, "name": "Idle dirty throttle correction"}
+    {"id": "IMPREZA_IDLE_DIRTY_THROTTLE", "path": "Engine", "fmt": { "len": 16, "max": 355, "min": -300, "div": 100, "add": -300, "unit": "gramsPerSecond" }, "name": "Idle dirty throttle correction"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "128F"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2022 },
   "signals": [
