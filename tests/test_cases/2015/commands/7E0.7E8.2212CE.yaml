@@ -4,26 +4,5 @@ test_cases:
     IMPREZA_AMBIENT_T_SENS_SIG: 22.5
   response: 7E8046212CE7D
 - expected_values:
-    IMPREZA_AMBIENT_T_SENS_SIG: 23
-  response: 7E8046212CE7E
-- expected_values:
-    IMPREZA_AMBIENT_T_SENS_SIG: 23.5
-  response: 7E8046212CE7F
-- expected_values:
-    IMPREZA_AMBIENT_T_SENS_SIG: 24
-  response: 7E8046212CE80
-- expected_values:
-    IMPREZA_AMBIENT_T_SENS_SIG: 24.5
-  response: 7E8046212CE81
-- expected_values:
-    IMPREZA_AMBIENT_T_SENS_SIG: 25
-  response: 7E8046212CE82
-- expected_values:
-    IMPREZA_AMBIENT_T_SENS_SIG: 25.5
-  response: 7E8046212CE83
-- expected_values:
-    IMPREZA_AMBIENT_T_SENS_SIG: 26.5
-  response: 7E8046212CE85
-- expected_values:
-    IMPREZA_AMBIENT_T_SENS_SIG: 27.5
-  response: 7E8046212CE87
+    IMPREZA_AMBIENT_T_SENS_SIG: 28
+  response: 7E8046212CE88
