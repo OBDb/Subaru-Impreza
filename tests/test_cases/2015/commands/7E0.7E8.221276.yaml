@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221276
+test_cases:
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 1.52
+  response: 7E8046212764C
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 4.2
+  response: 7E804621276D2

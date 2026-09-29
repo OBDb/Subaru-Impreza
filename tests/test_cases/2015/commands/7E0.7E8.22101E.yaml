@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.22101E
+test_cases:
+- expected_values:
+    IMPREZA_TRIP_CNT: 51301
+  response: |-
+    7E8100962101EC86500
+    7E8210004F600000000
