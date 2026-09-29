@@ -4,5 +4,5 @@ test_cases:
     IMPREZA_FUEL_INJ_1_WIDTH: 0
   response: 7E8046210A300
 - expected_values:
-    IMPREZA_FUEL_INJ_1_WIDTH: 13.056
-  response: 7E8046210A333
+    IMPREZA_FUEL_INJ_1_WIDTH: 14.592
+  response: 7E8046210A339

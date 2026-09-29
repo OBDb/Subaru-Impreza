@@ -4,6 +4,9 @@ test_cases:
     IMPREZA_THROTTLE_MOTOR_V: 13.12
   response: 7E804621275A4
 - expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 14.24
+  response: 7E804621275B2
+- expected_values:
     IMPREZA_THROTTLE_MOTOR_V: 14.32
   response: 7E804621275B3
 - expected_values:
