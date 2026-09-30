@@ -4,5 +4,5 @@ test_cases:
     IMPREZA_MAIN_ACCEL_SENS: 0.68
   response: '7E80462127922'
 - expected_values:
-    IMPREZA_MAIN_ACCEL_SENS: 1.22
-  response: 7E8046212793D
+    IMPREZA_MAIN_ACCEL_SENS: 1.24
+  response: 7E8046212793E
