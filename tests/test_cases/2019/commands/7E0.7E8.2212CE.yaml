@@ -9,3 +9,12 @@ test_cases:
 - expected_values:
     IMPREZA_AMBIENT_T_SENS_SIG: 18
   response: 7E8046212CE74
+- expected_values:
+    IMPREZA_AMBIENT_T_SENS_SIG: 18.5
+  response: 7E8046212CE75
+- expected_values:
+    IMPREZA_AMBIENT_T_SENS_SIG: 19
+  response: 7E8046212CE76
+- expected_values:
+    IMPREZA_AMBIENT_T_SENS_SIG: 19.5
+  response: 7E8046212CE77
