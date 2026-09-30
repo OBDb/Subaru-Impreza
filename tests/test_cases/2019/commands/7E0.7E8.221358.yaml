@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221358
+test_cases:
+- expected_values:
+    IMPREZA_DIRECT_FUEL_INJ_TIME_2: 0
+  response: '7E8056213580000'
+- expected_values:
+    IMPREZA_DIRECT_FUEL_INJ_TIME_2: 1.02
+  response: 7E80562135800FF
+- expected_values:
+    IMPREZA_DIRECT_FUEL_INJ_TIME_2: 1.068
+  response: 7E805621358010B
+- expected_values:
+    IMPREZA_DIRECT_FUEL_INJ_TIME_2: 1.072
+  response: 7E805621358010C
+- expected_values:
+    IMPREZA_DIRECT_FUEL_INJ_TIME_2: 1.152
+  response: '7E8056213580120'
+- expected_values:
+    IMPREZA_DIRECT_FUEL_INJ_TIME_2: 1.188
+  response: '7E8056213580129'
+- expected_values:
+    IMPREZA_DIRECT_FUEL_INJ_TIME_2: 1.504
+  response: '7E8056213580178'
