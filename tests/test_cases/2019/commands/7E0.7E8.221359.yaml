@@ -7,14 +7,5 @@ test_cases:
     IMPREZA_DIRECT_FUEL_INJ_TIME_3: 0.948
   response: 7E80562135900ED
 - expected_values:
-    IMPREZA_DIRECT_FUEL_INJ_TIME_3: 1.096
-  response: '7E8056213590112'
-- expected_values:
-    IMPREZA_DIRECT_FUEL_INJ_TIME_3: 1.1
-  response: '7E8056213590113'
-- expected_values:
-    IMPREZA_DIRECT_FUEL_INJ_TIME_3: 1.18
-  response: '7E8056213590127'
-- expected_values:
-    IMPREZA_DIRECT_FUEL_INJ_TIME_3: 1.504
-  response: '7E8056213590178'
+    IMPREZA_DIRECT_FUEL_INJ_TIME_3: 1.06
+  response: '7E8056213590109'

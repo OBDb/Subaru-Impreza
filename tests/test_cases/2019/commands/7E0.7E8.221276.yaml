@@ -4,5 +4,5 @@ test_cases:
     IMPREZA_SUB_THROTTLE_SENS: 1.52
   response: 7E8046212764C
 - expected_values:
-    IMPREZA_SUB_THROTTLE_SENS: 2
-  response: '7E80462127664'
+    IMPREZA_SUB_THROTTLE_SENS: 2.14
+  response: 7E8046212766B

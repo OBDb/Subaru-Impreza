@@ -4,5 +4,8 @@ test_cases:
     IMPREZA_IDLE_MAF: 2.42
   response: 7E80562128900F2
 - expected_values:
+    IMPREZA_IDLE_MAF: 2.55
+  response: 7E80562128900FF
+- expected_values:
     IMPREZA_IDLE_MAF: 2.58
   response: '7E8056212890102'
