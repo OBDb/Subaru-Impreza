@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22128F
+test_cases:
+- expected_values:
+    IMPREZA_INT_VVT_ADVANCE_TGT: -10
+  response: 7E80462128F28
+- expected_values:
+    IMPREZA_INT_VVT_ADVANCE_TGT: -6
+  response: 7E80462128F2C
+- expected_values:
+    IMPREZA_INT_VVT_ADVANCE_TGT: -4
+  response: 7E80462128F2E
+- expected_values:
+    IMPREZA_INT_VVT_ADVANCE_TGT: 0
+  response: 7E80462128F32

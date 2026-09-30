@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2210AF
+test_cases:
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 1.1
+  response: 7E8046210AF37
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 1.88
+  response: 7E8046210AF5E
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 3.7
+  response: 7E8046210AFB9
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 3.78
+  response: 7E8046210AFBD
