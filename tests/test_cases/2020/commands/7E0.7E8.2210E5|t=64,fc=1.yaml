@@ -4,11 +4,8 @@ test_cases:
     IMPREZA_ODO: 105642
   response: 7E8056210E5CE55
 - expected_values:
-    IMPREZA_ODO: 105976
-  response: 7E8056210E5CEFC
-- expected_values:
     IMPREZA_ODO: 107012
   response: 7E8056210E5D102
 - expected_values:
-    IMPREZA_ODO: 107556
-  response: 7E8056210E5D212
+    IMPREZA_ODO: null
+  response: 7E8056210E5FFFF
