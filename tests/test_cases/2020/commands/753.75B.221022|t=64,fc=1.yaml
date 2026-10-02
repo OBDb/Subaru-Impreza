@@ -7,11 +7,11 @@ test_cases:
     IMPREZA_TP_RR: 29.4
   response: 75B076210229093968F
 - expected_values:
-    IMPREZA_TP_FL: 29.6
-    IMPREZA_TP_FR: 29.6
+    IMPREZA_TP_FL: 29.4
+    IMPREZA_TP_FR: 29.4
     IMPREZA_TP_RL: 29.2
     IMPREZA_TP_RR: 34.4
-  response: 75B0762102292AC9494
+  response: 75B0762102292AC9393
 - expected_values:
     IMPREZA_TP_FL: 37.2
     IMPREZA_TP_FR: 38.6
