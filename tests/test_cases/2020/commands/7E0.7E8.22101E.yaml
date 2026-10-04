@@ -40,3 +40,8 @@ test_cases:
   response: |-
     7E8100962101E3A2900
     7E82100033300000000
+- expected_values:
+    IMPREZA_TRIP_CNT: 14890
+  response: |-
+    7E8100962101E3A2A00
+    7E82100019300000000
