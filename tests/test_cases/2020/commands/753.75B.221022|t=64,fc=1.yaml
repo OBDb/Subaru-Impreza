@@ -1,17 +1,23 @@
 command_id: 753.75B.221022|t=64,fc=1
 test_cases:
 - expected_values:
+    IMPREZA_TP_FL: 29.2
+    IMPREZA_TP_FR: 29.2
+    IMPREZA_TP_RL: 28.6
+    IMPREZA_TP_RR: 34.4
+  response: 75B076210228FAC9292
+- expected_values:
     IMPREZA_TP_FL: 28.6
     IMPREZA_TP_FR: 30
     IMPREZA_TP_RL: 28.8
     IMPREZA_TP_RR: 29.4
   response: 75B076210229093968F
 - expected_values:
-    IMPREZA_TP_FL: 29.4
-    IMPREZA_TP_FR: 29.4
-    IMPREZA_TP_RL: 29.2
+    IMPREZA_TP_FL: 29.2
+    IMPREZA_TP_FR: 28.8
+    IMPREZA_TP_RL: 29
     IMPREZA_TP_RR: 34.4
-  response: 75B0762102292AC9393
+  response: 75B0762102291AC9092
 - expected_values:
     IMPREZA_TP_FL: 37.2
     IMPREZA_TP_FR: 38.6
