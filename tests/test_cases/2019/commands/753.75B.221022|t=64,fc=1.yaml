@@ -7,6 +7,18 @@ test_cases:
     IMPREZA_TP_RR: null
   response: 75B0762102200000000
 - expected_values:
+    IMPREZA_TP_FL: 26.6
+    IMPREZA_TP_FR: 26
+    IMPREZA_TP_RL: 26.6
+    IMPREZA_TP_RR: 26.4
+  response: 75B0762102285848285
+- expected_values:
+    IMPREZA_TP_FL: 25.8
+    IMPREZA_TP_FR: 25.4
+    IMPREZA_TP_RL: 27
+    IMPREZA_TP_RR: 26.2
+  response: 75B0762102287837F81
+- expected_values:
     IMPREZA_TP_FL: 35.6
     IMPREZA_TP_FR: 34.4
     IMPREZA_TP_RL: 35.6
