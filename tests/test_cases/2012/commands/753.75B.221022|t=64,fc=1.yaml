@@ -7,26 +7,26 @@ test_cases:
     IMPREZA_TP_RR: null
   response: 75B0762102200000000
 - expected_values:
-    IMPREZA_TP_FL: 26.6
+    IMPREZA_TP_RL: 26.6
   response: 75B0762102200000085
 - expected_values:
-    IMPREZA_TP_FR: 32.6
+    IMPREZA_TP_RR: 32.6
   response: 75B076210220000A300
 - expected_values:
-    IMPREZA_TP_FL: 39.6
-    IMPREZA_TP_FR: 41.8
-    IMPREZA_TP_RL: 40.4
-    IMPREZA_TP_RR: 42.8
+    IMPREZA_TP_FL: 40.4
+    IMPREZA_TP_FR: 42.8
+    IMPREZA_TP_RL: 39.6
+    IMPREZA_TP_RR: 41.8
   response: 75B07621022CAD6D1C6
 - expected_values:
-    IMPREZA_TP_FL: 39.4
-    IMPREZA_TP_FR: 42
-    IMPREZA_TP_RL: 40.4
-    IMPREZA_TP_RR: 43
+    IMPREZA_TP_FL: 40.4
+    IMPREZA_TP_FR: 43
+    IMPREZA_TP_RL: 39.4
+    IMPREZA_TP_RR: 42
   response: 75B07621022CAD7D2C5
 - expected_values:
-    IMPREZA_TP_FL: 39.6
-    IMPREZA_TP_FR: 42
-    IMPREZA_TP_RL: 40.6
-    IMPREZA_TP_RR: 43.2
+    IMPREZA_TP_FL: 40.6
+    IMPREZA_TP_FR: 43.2
+    IMPREZA_TP_RL: 39.6
+    IMPREZA_TP_RR: 42
   response: 75B07621022CBD8D2C6
