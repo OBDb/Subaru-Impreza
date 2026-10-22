@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2211BF
+test_cases:
+- expected_values:
+    IMPREZA_EXH_VVT_CLEANING: 0
+  response: |-
+    7E8034104B3
+    7E8046211BF00
+- expected_values:
+    IMPREZA_EXH_VVT_CLEANING: 0
+  response: 7E8046211BF00
+- expected_values:
+    IMPREZA_EXH_VVT_CLEANING: 0
+  response: |-
+    7E80462129241
+    7E8046211BF00
+- expected_values:
+    IMPREZA_EXH_VVT_CLEANING: 0
+  response: |-
+    7E82100050E00000000
+    7E8046211BF00

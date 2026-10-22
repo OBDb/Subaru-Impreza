@@ -1,0 +1,93 @@
+command_id: 7E0.7E8.221292
+test_cases:
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 0
+  response: |-
+    7E80341044E
+    7E80462129232
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 31
+  response: |-
+    7E803410486
+    7E80462129251
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 27
+  response: |-
+    7E803410684
+    7E8046212924D
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 8
+  response: |-
+    7E803410D05
+    7E8046212923A
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 0
+  response: |-
+    7E8044110013C
+    7E80462129232
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 29
+  response: |-
+    7E804411006C1
+    7E8046212924F
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 34
+  response: |-
+    7E80441430068
+    7E80462129254
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 30
+  response: |-
+    7E80441447F67
+    7E80462129250
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 0
+  response: |-
+    7E80441447FCE
+    7E80462129232
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 27
+  response: |-
+    7E8046212759C
+    7E8046212924D
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 33
+  response: |-
+    7E80462127822
+    7E80462129253
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 0
+  response: '7E80462129232'
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 0
+  response: |-
+    7E80462129232
+    7E80462129232
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 50
+  response: '7E80462129264'
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 0
+  response: |-
+    7E805621289018D
+    7E80462129232
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 0
+  response: |-
+    7E80562128A752C
+    7E80462129232
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 32
+  response: |-
+    7E80562128A7530
+    7E80462129252
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 28
+  response: |-
+    7E80562128C0000
+    7E8046212924E
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT_ANG: 0
+  response: |-
+    7E805621298014C
+    7E80462129232

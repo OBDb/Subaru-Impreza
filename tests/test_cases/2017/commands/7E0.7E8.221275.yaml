@@ -1,0 +1,111 @@
+command_id: 7E0.7E8.221275
+test_cases:
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 12.24
+  response: |-
+    7E803410444
+    7E80462127599
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 14.24
+  response: |-
+    7E803410498
+    7E804621275B2
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 14.08
+  response: |-
+    7E803410680
+    7E804621275B0
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 12.72
+  response: |-
+    7E803410D00
+    7E8046212759F
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 14.24
+  response: |-
+    7E804410C0CB3
+    7E804621275B2
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 14.24
+  response: |-
+    7E80441430024
+    7E804621275B2
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 12.64
+  response: |-
+    7E8044143002B
+    7E8046212759E
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 12.56
+  response: |-
+    7E80441447F67
+    7E8046212759D
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 14.16
+  response: |-
+    7E8046210AF36
+    7E804621275B1
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 12.64
+  response: |-
+    7E8046210ED32
+    7E8046212759E
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 12.8
+  response: |-
+    7E80462123300
+    7E804621275A0
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 12.48
+  response: |-
+    7E804621233FF
+    7E8046212759C
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 0.24
+  response: '7E80462127503'
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 12.16
+  response: '7E80462127598'
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 15.2
+  response: 7E804621275BE
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 12.72
+  response: |-
+    7E80462128F2D
+    7E8046212759F
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 14.32
+  response: |-
+    7E80562128901FD
+    7E804621275B3
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 12.64
+  response: |-
+    7E80562128A754C
+    7E8046212759E
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 13.04
+  response: |-
+    7E80562128C0061
+    7E804621275A3
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 12.24
+  response: |-
+    7E8056212980000
+    7E80462127599
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 14.24
+  response: |-
+    7E8056212980000
+    7E804621275B2
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 12.16
+  response: |-
+    7E821000EB200000000
+    7E80462127598
+- expected_values:
+    IMPREZA_THROTTLE_MOTOR_V: 12.16
+  response: |-
+    7E8210015AB00000000
+    7E80462127598

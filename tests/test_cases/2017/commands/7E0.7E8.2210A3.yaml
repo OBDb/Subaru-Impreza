@@ -1,0 +1,100 @@
+command_id: 7E0.7E8.2210A3
+test_cases:
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 3.84
+  response: |-
+    7E803410461
+    7E8046210A30F
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 11.776
+  response: |-
+    7E8034104FF
+    7E8046210A32E
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 4.096
+  response: |-
+    7E80341067D
+    7E8046210A310
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 2.56
+  response: |-
+    7E804411001A0
+    7E8046210A30A
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 0
+  response: |-
+    7E8044143001E
+    7E8046210A300
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 4.352
+  response: |-
+    7E80441447E9E
+    7E8046210A311
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 0
+  response: 7E8046210A300
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 3.584
+  response: |-
+    7E8046210A30E
+    7E8046210A30E
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 7.936
+  response: |-
+    7E8046210A31F
+    7E8046210A31F
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 8.704
+  response: |-
+    7E8046210A322
+    7E8046210A322
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 12.8
+  response: 7E8046210A332
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 4.608
+  response: |-
+    7E8046210ED32
+    7E8046210A312
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 3.84
+  response: |-
+    7E80462123300
+    7E8046210A30F
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 3.584
+  response: |-
+    7E804621233FF
+    7E8046210A30E
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 2.56
+  response: |-
+    7E80462129147
+    7E8056212980497
+    7E8044143001F
+    7E8046210A30A
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 5.888
+  response: |-
+    7E805621289018C
+    7E8046210A317
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 7.168
+  response: |-
+    7E80562128A7530
+    7E8046210A31C
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 4.352
+  response: |-
+    7E80562128C0000
+    7E8046210A311
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 3.072
+  response: |-
+    7E80562128D0030
+    7E8046210A30C
+- expected_values:
+    IMPREZA_FUEL_INJ_1_WIDTH: 11.008
+  response: |-
+    7E805621298076D
+    7E8046210A32B

@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22101E
+test_cases:
+- expected_values:
+    IMPREZA_TRIP_CNT: 5667
+  response: |-
+    7E8100962101E162300
+    7E8210004D000000000
+- expected_values:
+    IMPREZA_TRIP_CNT: 5669
+  response: |-
+    7E8100962101E162500
+    7E82100C2E300000000
+- expected_values:
+    IMPREZA_TRIP_CNT: 5671
+  response: |-
+    7E8100962101E162700
+    7E821003FDF00000000
+- expected_values:
+    IMPREZA_TRIP_CNT: 5674
+  response: |-
+    7E8100962101E162A00
+    7E82100104000000000
+- expected_values:
+    IMPREZA_TRIP_CNT: 5704
+  response: |-
+    7E8100962101E164800
+    7E821002FF900000000
+- expected_values:
+    IMPREZA_TRIP_CNT: 5709
+  response: |-
+    7E8100962101E164D00
+    7E82100B45200000000

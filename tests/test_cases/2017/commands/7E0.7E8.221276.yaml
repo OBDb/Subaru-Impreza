@@ -1,0 +1,96 @@
+command_id: 7E0.7E8.221276
+test_cases:
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 2.04
+  response: |-
+    7E8034104A7
+    7E80462127666
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 1.64
+  response: |-
+    7E803410680
+    7E80462127652
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 4.24
+  response: |-
+    7E803410D30
+    7E804621276D4
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 1.6
+  response: |-
+    7E80441100123
+    7E80462127650
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 1.74
+  response: |-
+    7E80441430040
+    7E80462127657
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 1.82
+  response: |-
+    7E80441448000
+    7E8046212765B
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 1.64
+  response: |-
+    7E8046210AF35
+    7E80462127652
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 1.58
+  response: |-
+    7E8046210EC34
+    7E8046212764F
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 2.08
+  response: |-
+    7E8046210ED47
+    7E80462127668
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 1.52
+  response: 7E8046212764C
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 1.6
+  response: '7E80462127650'
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 3.92
+  response: |-
+    7E804621276C2
+    7E804621276C4
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 4.24
+  response: 7E804621276D4
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 2
+  response: |-
+    7E8056212890163
+    7E80462127664
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 1.64
+  response: |-
+    7E80562128C0000
+    7E80462127652
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 1.6
+  response: |-
+    7E80562128D0019
+    7E80462127650
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 1.66
+  response: |-
+    7E8056212980324
+    7E80462127653
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 2.66
+  response: |-
+    7E805621298053A
+    7E80462127685
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 1.78
+  response: |-
+    7E8056212980624
+    7E80462127659
+- expected_values:
+    IMPREZA_SUB_THROTTLE_SENS: 1.96
+  response: |-
+    7E8056212980708
+    7E80462127662

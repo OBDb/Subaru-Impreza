@@ -1,5 +1,172 @@
 command_id: 7E0.7E8.2210E5|t=64,fc=1
 test_cases:
 - expected_values:
+    IMPREZA_ODO: 54154
+  response: |-
+    7E803410426
+    7E8056210E569C5
+- expected_values:
+    IMPREZA_ODO: 49012
+  response: |-
+    7E803410435
+    7E8056210E55FBA
+- expected_values:
+    IMPREZA_ODO: 53828
+  response: |-
+    7E8034104D1
+    7E8056210E56922
+- expected_values:
+    IMPREZA_ODO: 51454
+  response: |-
+    7E803410574
+    7E8056210E5647F
+- expected_values:
+    IMPREZA_ODO: 44192
+  response: |-
+    7E803410588
+    7E8056210E55650
+- expected_values:
+    IMPREZA_ODO: 44190
+  response: |-
+    7E803410680
+    7E80441100197
+    7E8056210E5564F
+- expected_values:
+    IMPREZA_ODO: 46232
+  response: |-
+    7E803410D00
+    7E8056210E55A4C
+- expected_values:
+    IMPREZA_ODO: 49226
+  response: |-
+    7E803410D39
+    7E8056210E56025
+- expected_values:
+    IMPREZA_ODO: 54706
+  response: |-
+    7E804410C0CCD
+    7E8056210E56AD9
+- expected_values:
+    IMPREZA_ODO: 46390
+  response: |-
+    7E80441100121
+    7E8056210E55A9B
+- expected_values:
+    IMPREZA_ODO: 49128
+  response: |-
+    7E804411001AB
+    7E8056210E55FF4
+- expected_values:
+    IMPREZA_ODO: 53824
+  response: |-
+    7E80441100DEB
+    7E8056210E56920
+- expected_values:
+    IMPREZA_ODO: 49118
+  response: |-
+    7E80441318984
+    7E8056210E55FEF
+- expected_values:
+    IMPREZA_ODO: 54760
+  response: |-
+    7E80441319F62
+    7E8056210E56AF4
+- expected_values:
+    IMPREZA_ODO: 53334
+  response: |-
+    7E80441430000
+    7E8056210E5682B
+- expected_values:
+    IMPREZA_ODO: 54474
+  response: |-
+    7E80441446EE5
+    7E8056210E56A65
+- expected_values:
+    IMPREZA_ODO: 43954
+  response: |-
+    7E80441447D0B
+    7E8056210E555D9
+- expected_values:
+    IMPREZA_ODO: 54272
+  response: |-
+    7E80462127922
+    7E8056210E56A00
+- expected_values:
+    IMPREZA_ODO: 43056
+  response: 7E8056210E55418
+- expected_values:
+    IMPREZA_ODO: 43518
+  response: 7E8056210E554FF
+- expected_values:
+    IMPREZA_ODO: 43520
+  response: 7E8056210E55500
+- expected_values:
+    IMPREZA_ODO: 52600
+  response: 7E8056210E566BC
+- expected_values:
+    IMPREZA_ODO: 54784
+  response: 7E8056210E56B00
+- expected_values:
     IMPREZA_ODO: null
   response: 7E8056210E5FFFF
+- expected_values:
+    IMPREZA_ODO: 53906
+  response: |-
+    7E80562128902C3
+    7E8056210E56949
+- expected_values:
+    IMPREZA_ODO: 54492
+  response: |-
+    7E8102362F197312E36
+    7E8056210E56A6E
+- expected_values:
+    IMPREZA_ODO: 53854
+  response: |-
+    7E82120444F48432020
+    7E82220202020202020
+    7E82320202020202020
+    7E82420202020202020
+    7E82520000000000000
+    7E8056210E5692F
+- expected_values:
+    IMPREZA_ODO: 54688
+  response: |-
+    7E82120444F48432020
+    7E82220202020202020
+    7E82320202020202020
+    7E82420202020202020
+    7E82520000000000000
+    7E8056210E56AD0
+- expected_values:
+    IMPREZA_ODO: 54766
+  response: |-
+    7E82120444F48432020
+    7E82220202020202020
+    7E82320202020202020
+    7E82420202020202020
+    7E82520000000000000
+    7E8056210E56AF7
+- expected_values:
+    IMPREZA_ODO: 53584
+  response: |-
+    7E82220202020202020
+    7E82320202020202020
+    7E82420202020202020
+    7E82520000000000000
+    7E8056210E568A8
+- expected_values:
+    IMPREZA_ODO: 54262
+  response: |-
+    7E82220202020202020
+    7E82320202020202020
+    7E82420202020202020
+    7E82520000000000000
+    7E8056210E569FB
+- expected_values:
+    IMPREZA_ODO: 54274
+  response: |-
+    7E82220202020202020
+    7E82320202020202020
+    7E82420202020202020
+    7E82520000000000000
+    7E8056210E56A01

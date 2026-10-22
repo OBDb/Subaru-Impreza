@@ -1,0 +1,93 @@
+command_id: 7E0.010D
+test_cases:
+- expected_values:
+    VSS: 0
+  response: |-
+    7E803410400
+    7E803410D00
+- expected_values:
+    VSS: 92
+  response: |-
+    7E803410428
+    7E803410D5C
+- expected_values:
+    VSS: 63
+  response: |-
+    7E803410487
+    7E803410D3F
+- expected_values:
+    VSS: 87
+  response: |-
+    7E8034104FF
+    7E803410D57
+- expected_values:
+    VSS: 21
+  response: |-
+    7E80341065A
+    7E803410D15
+- expected_values:
+    VSS: 0
+  response: 7E803410D00
+- expected_values:
+    VSS: 131
+  response: 7E803410D83
+- expected_values:
+    VSS: 42
+  response: |-
+    7E804410C10BD
+    7E803410D2A
+- expected_values:
+    VSS: 0
+  response: |-
+    7E8044110004B
+    7E803410D00
+- expected_values:
+    VSS: 28
+  response: |-
+    7E804411000F3
+    7E803410D1C
+- expected_values:
+    VSS: 62
+  response: |-
+    7E80441100120
+    7E803410D3E
+- expected_values:
+    VSS: 101
+  response: |-
+    7E8044110042B
+    7E803410D65
+- expected_values:
+    VSS: 0
+  response: |-
+    7E80441430000
+    7E803410D00
+- expected_values:
+    VSS: 55
+  response: |-
+    7E80441446EB7
+    7E803410D37
+- expected_values:
+    VSS: 104
+  response: |-
+    7E8046210AFC4
+    7E803410D68
+- expected_values:
+    VSS: 0
+  response: |-
+    7E80562128B750C
+    7E803410D00
+- expected_values:
+    VSS: 110
+  response: |-
+    7E80562128C0000
+    7E803410D6E
+- expected_values:
+    VSS: 8
+  response: |-
+    7E82100095900000000
+    7E803410D08
+- expected_values:
+    VSS: 35
+  response: |-
+    7E82100096800000000
+    7E803410D23
