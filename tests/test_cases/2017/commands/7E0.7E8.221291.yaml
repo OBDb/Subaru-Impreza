@@ -1,0 +1,91 @@
+command_id: 7E0.7E8.221291
+test_cases:
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 0
+  response: |-
+    7E803410433
+    7E80462129132
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 34
+  response: |-
+    7E8034104AA
+    7E80462129154
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 0
+  response: |-
+    7E80341067F
+    7E80462129132
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 35
+  response: |-
+    7E803410685
+    7E80462129155
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 0
+  response: |-
+    7E80441100187
+    7E80462129132
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 39
+  response: |-
+    7E80441430065
+    7E80462129159
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 0
+  response: |-
+    7E8046210AF35
+    7E80462129132
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 32
+  response: |-
+    7E8046210B0C4
+    7E80462129152
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 0
+  response: |-
+    7E8046210ED32
+    7E80462129132
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 0
+  response: |-
+    7E80462127822
+    7E80462129132
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 0
+  response: '7E80462129132'
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 27
+  response: 7E8046212914D
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 29
+  response: |-
+    7E8046212914F
+    7E8046212914F
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 50
+  response: '7E80462129164'
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 0
+  response: |-
+    7E80562128D0006
+    7E80462129132
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 27
+  response: |-
+    7E80562128D0006
+    7E8046212914D
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 0
+  response: |-
+    7E80562128E757D
+    7E80462129132
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 30
+  response: |-
+    7E80562128E757D
+    7E80462129150
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_TGT: 27
+  response: |-
+    7E8056212980AA9
+    7E8046212914D

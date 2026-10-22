@@ -1,0 +1,75 @@
+command_id: 7E0.7E8.22128E
+test_cases:
+- expected_values:
+    IMPREZA_IDLE_DIRTY_THROTTLE: 0.77
+  response: |-
+    7E80341043F
+    7E80562128E757D
+- expected_values:
+    IMPREZA_IDLE_DIRTY_THROTTLE: 0.77
+  response: |-
+    7E8034104CF
+    7E80562128E757D
+- expected_values:
+    IMPREZA_IDLE_DIRTY_THROTTLE: 0.77
+  response: |-
+    7E803410680
+    7E80562128E757D
+- expected_values:
+    IMPREZA_IDLE_DIRTY_THROTTLE: 0.77
+  response: |-
+    7E8044110016B
+    7E80562128E757D
+- expected_values:
+    IMPREZA_IDLE_DIRTY_THROTTLE: 0.77
+  response: |-
+    7E80441430034
+    7E80562128E757D
+- expected_values:
+    IMPREZA_IDLE_DIRTY_THROTTLE: 0.77
+  response: |-
+    7E80441446DF0
+    7E80562128E757D
+- expected_values:
+    IMPREZA_IDLE_DIRTY_THROTTLE: 0.77
+  response: |-
+    7E8046210A31A
+    7E80562128E757D
+- expected_values:
+    IMPREZA_IDLE_DIRTY_THROTTLE: 0.77
+  response: |-
+    7E8046210ED4B
+    7E80562128E757D
+- expected_values:
+    IMPREZA_IDLE_DIRTY_THROTTLE: 0.77
+  response: |-
+    7E804621233FF
+    7E80562128E757D
+- expected_values:
+    IMPREZA_IDLE_DIRTY_THROTTLE: 0.77
+  response: |-
+    7E805621289017B
+    7E80562128E757D
+- expected_values:
+    IMPREZA_IDLE_DIRTY_THROTTLE: 0.77
+  response: |-
+    7E805621289017E
+    7E80562128E757D
+- expected_values:
+    IMPREZA_IDLE_DIRTY_THROTTLE: 0.77
+  response: |-
+    7E80562128A752C
+    7E80562128E757D
+- expected_values:
+    IMPREZA_IDLE_DIRTY_THROTTLE: 0.77
+  response: |-
+    7E80562128C0000
+    7E80562128E757D
+- expected_values:
+    IMPREZA_IDLE_DIRTY_THROTTLE: 0.77
+  response: 7E80562128E757D
+- expected_values:
+    IMPREZA_IDLE_DIRTY_THROTTLE: 0.77
+  response: |-
+    7E80562128E757D
+    7E80562128E757D

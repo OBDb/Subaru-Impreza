@@ -1,0 +1,103 @@
+command_id: 7E0.7E8.22128C
+test_cases:
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: |-
+    7E803410472
+    7E80562128C005A
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: |-
+    7E80341048F
+    7E80562128C0000
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: |-
+    7E80341067B
+    7E80562128C0000
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: |-
+    7E8044110015C
+    7E80562128C0063
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: |-
+    7E804411001D0
+    7E80562128C0000
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: |-
+    7E804411005B7
+    7E80562128C005A
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: |-
+    7E804411F01DC
+    7E80562128C0000
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: |-
+    7E80441430055
+    7E80562128C0000
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: |-
+    7E80441447FCB
+    7E80562128C0060
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: |-
+    7E80441448000
+    7E80562128C0000
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: |-
+    7E80441448000
+    7E80562128C0082
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: |-
+    7E8046210A30A
+    7E80562128C0000
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: |-
+    7E8046210ED35
+    7E80562128C0063
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: |-
+    7E80562128901C0
+    7E80562128C0000
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: |-
+    7E80562128A755A
+    7E80562128C005A
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: 7E80562128C0000
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: |-
+    7E80562128C0000
+    7E80562128C0000
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: |-
+    7E80562128C0064
+    7E80562128C0064
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: 7E80562128C008C
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: |-
+    7E80562129806E5
+    7E80562128C0000
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: |-
+    7E8210059D600000000
+    7E80562128C005A

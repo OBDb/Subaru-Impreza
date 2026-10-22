@@ -1,0 +1,109 @@
+command_id: 7E0.7E8.221298
+test_cases:
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 1480
+  response: |-
+    7E803410452
+    7E80562129805C8
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 1793
+  response: |-
+    7E803410498
+    7E8056212980701
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 2287
+  response: |-
+    7E803410680
+    7E80562129808EF
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 615
+  response: |-
+    7E803410D06
+    7E8056212980267
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 0
+  response: |-
+    7E80441100140
+    7E8056212980000
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 1953
+  response: |-
+    7E8044143001B
+    7E80562129807A1
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 2683
+  response: |-
+    7E804414300A7
+    7E8056212980A7B
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 1982
+  response: |-
+    7E80441447F36
+    7E80562129807BE
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 0
+  response: |-
+    7E80441447FC5
+    7E8056212980000
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 1257
+  response: |-
+    7E80441448000
+    7E80562129804E9
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 689
+  response: |-
+    7E8046210A30E
+    7E80562129802B1
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 167
+  response: |-
+    7E8046210ED31
+    7E80562129800A7
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 1071
+  response: |-
+    7E8046212792C
+    7E805621298042F
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 2723
+  response: |-
+    7E80562128A7530
+    7E8056212980AA3
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 0
+  response: |-
+    7E80562128C005A
+    7E8056212980000
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 0
+  response: '7E8056212980000'
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 795
+  response: |-
+    7E80562129802FE
+    7E805621298031B
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 1279
+  response: 7E80562129804FF
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 1790
+  response: |-
+    7E80562129806FC
+    7E80462127769
+    7E80562128E757D
+    7E803410681
+    7E80562129806FE
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 2324
+  response: |-
+    7E805621298091B
+    7E8056212980914
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 4605
+  response: 7E80562129811FD
+- expected_values:
+    IMPREZA_TRANS_TURBINE_SPD: 0
+  response: |-
+    7E82100099200000000
+    7E8056212980000

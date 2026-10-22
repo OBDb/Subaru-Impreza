@@ -1,0 +1,81 @@
+command_id: 7E0.7E8.221279
+test_cases:
+- expected_values:
+    IMPREZA_MAIN_ACCEL_SENS: 0.7
+  response: |-
+    7E803410450
+    7E80462127923
+- expected_values:
+    IMPREZA_MAIN_ACCEL_SENS: 0.7
+  response: |-
+    7E8034104A1
+    7E80462127923
+- expected_values:
+    IMPREZA_MAIN_ACCEL_SENS: 0.7
+  response: |-
+    7E803410685
+    7E80462127923
+- expected_values:
+    IMPREZA_MAIN_ACCEL_SENS: 0.76
+  response: |-
+    7E803410685
+    7E80462127926
+- expected_values:
+    IMPREZA_MAIN_ACCEL_SENS: 0.7
+  response: |-
+    7E804411004E6
+    7E80462127923
+- expected_values:
+    IMPREZA_MAIN_ACCEL_SENS: 0.68
+  response: |-
+    7E80441100784
+    7E80462127922
+- expected_values:
+    IMPREZA_MAIN_ACCEL_SENS: 0.68
+  response: |-
+    7E80441430062
+    7E80462127922
+- expected_values:
+    IMPREZA_MAIN_ACCEL_SENS: 1.1
+  response: |-
+    7E80441430091
+    7E80462127937
+- expected_values:
+    IMPREZA_MAIN_ACCEL_SENS: 0.7
+  response: |-
+    7E8046210AF36
+    7E80462127923
+- expected_values:
+    IMPREZA_MAIN_ACCEL_SENS: 1.24
+  response: |-
+    7E8046210EC49
+    7E8046212793E
+- expected_values:
+    IMPREZA_MAIN_ACCEL_SENS: 0.68
+  response: |-
+    7E8046210ED31
+    7E80462127922
+- expected_values:
+    IMPREZA_MAIN_ACCEL_SENS: 0.68
+  response: '7E80462127922'
+- expected_values:
+    IMPREZA_MAIN_ACCEL_SENS: 0.7
+  response: '7E80462127923'
+- expected_values:
+    IMPREZA_MAIN_ACCEL_SENS: 2.28
+  response: '7E80462127972'
+- expected_values:
+    IMPREZA_MAIN_ACCEL_SENS: 0.7
+  response: |-
+    7E80462129904
+    7E80462127923
+- expected_values:
+    IMPREZA_MAIN_ACCEL_SENS: 0.7
+  response: |-
+    7E80562128A7530
+    7E80462127923
+- expected_values:
+    IMPREZA_MAIN_ACCEL_SENS: 0.7
+  response: |-
+    7E80562128D0010
+    7E80462127923
