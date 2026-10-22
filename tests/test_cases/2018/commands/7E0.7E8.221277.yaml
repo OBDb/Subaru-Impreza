@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221277
+test_cases:
+- expected_values:
+    IMPREZA_MAIN_THROTTLE_SENS: 0.8
+  response: '7E80462127728'
+- expected_values:
+    IMPREZA_MAIN_THROTTLE_SENS: 0.82
+  response: '7E80462127729'
+- expected_values:
+    IMPREZA_MAIN_THROTTLE_SENS: 1
+  response: '7E80462127732'
+- expected_values:
+    IMPREZA_MAIN_THROTTLE_SENS: 1.02
+  response: '7E80462127733'
