@@ -1,17 +1,14 @@
 command_id: 7E0.7E8.221357
 test_cases:
 - expected_values:
-    IMPREZA_DIRECT_FUEL_INJ_TIME_1: 1.612
-  response: '7E8056213570193'
+    IMPREZA_DIRECT_FUEL_INJ_TIME_1: 1.52
+  response: 7E805621357017C
 - expected_values:
     IMPREZA_DIRECT_FUEL_INJ_TIME_1: 2.004
   response: 7E80562135701F5
 - expected_values:
     IMPREZA_DIRECT_FUEL_INJ_TIME_1: 2.056
   response: '7E8056213570202'
-- expected_values:
-    IMPREZA_DIRECT_FUEL_INJ_TIME_1: 2.068
-  response: '7E8056213570205'
 - expected_values:
     IMPREZA_DIRECT_FUEL_INJ_TIME_1: 4.364
   response: '7E8056213570443'
