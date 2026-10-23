@@ -5,4 +5,7 @@ test_cases:
   response: 7E80562128C0000
 - expected_values:
     IMPREZA_IDLE_AC_LOAD_CORR: 0
+  response: 7E80562128C004E
+- expected_values:
+    IMPREZA_IDLE_AC_LOAD_CORR: 0
   response: 7E80562128C006C
