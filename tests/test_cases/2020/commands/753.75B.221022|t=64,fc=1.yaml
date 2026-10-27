@@ -1,11 +1,11 @@
 command_id: 753.75B.221022|t=64,fc=1
 test_cases:
 - expected_values:
-    IMPREZA_TP_FL: 29.4
+    IMPREZA_TP_FL: 29
     IMPREZA_TP_FR: 29
     IMPREZA_TP_RL: 28.6
     IMPREZA_TP_RR: 34.4
-  response: 75B076210228FAC9193
+  response: 75B076210228FAC9191
 - expected_values:
     IMPREZA_TP_FL: 28.6
     IMPREZA_TP_FR: 30
