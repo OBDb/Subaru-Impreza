@@ -16,6 +16,11 @@ test_cases:
     7E80341043E
     7E80441317B70
 - expected_values:
+    CLR_DIST: 41166
+  response: |-
+    7E803410480
+    7E8044131A0CE
+- expected_values:
     CLR_DIST: 30067
   response: |-
     7E8034104FF
@@ -86,6 +91,11 @@ test_cases:
 - expected_values:
     CLR_DIST: 40963
   response: 7E8044131A003
+- expected_values:
+    CLR_DIST: 41165
+  response: |-
+    7E80441430031
+    7E8044131A0CD
 - expected_values:
     CLR_DIST: 40977
   response: |-
