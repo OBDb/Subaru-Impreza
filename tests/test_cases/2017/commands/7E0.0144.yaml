@@ -93,5 +93,10 @@ test_cases:
 - expected_values:
     EQ_RAT: 1
   response: |-
+    7E8064100BE3FA813
+    7E80441448000
+- expected_values:
+    EQ_RAT: 1
+  response: |-
     7E821005FA000000000
     7E80441448000
