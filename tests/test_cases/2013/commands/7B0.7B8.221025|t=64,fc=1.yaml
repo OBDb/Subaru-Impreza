@@ -7,5 +7,5 @@ test_cases:
     IMPREZA_FL_VSS: 28.74375
   response: 7B80562102501FF
 - expected_values:
-    IMPREZA_FL_VSS: 115.5375
-  response: 7B8056210250806
+    IMPREZA_FL_VSS: 115.425
+  response: 7B8056210250804
