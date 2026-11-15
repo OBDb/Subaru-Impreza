@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     IMPREZA_ELEC_LOAD_FEEDBACK: 0
   response: 7E80562128D0036
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: 7E80562128D0039
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: 7E80562128D0050
