@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.221289
 test_cases:
 - expected_values:
-    IMPREZA_IDLE_MAF: 3.7
-  response: '7E8056212890172'
+    IMPREZA_IDLE_MAF: 3.51
+  response: 7E805621289015F
+- expected_values:
+    IMPREZA_IDLE_MAF: 4.68
+  response: 7E80562128901D4
+- expected_values:
+    IMPREZA_IDLE_MAF: 8.87
+  response: '7E8056212890377'
