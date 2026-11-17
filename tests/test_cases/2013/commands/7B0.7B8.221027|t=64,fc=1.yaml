@@ -4,8 +4,8 @@ test_cases:
     IMPREZA_RL_VSS: 0
   response: 7B8056210270000
 - expected_values:
-    IMPREZA_RL_VSS: 28.0125
-  response: 7B80562102701F2
+    IMPREZA_RL_VSS: 114.8625
+  response: 7B80562102707FA
 - expected_values:
     IMPREZA_RL_VSS: 129.825
   response: 7B8056210270904

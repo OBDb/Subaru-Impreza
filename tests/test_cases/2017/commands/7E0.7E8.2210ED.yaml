@@ -1,0 +1,108 @@
+command_id: 7E0.7E8.2210ED
+test_cases:
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 0
+  response: |-
+    7E803410473
+    7E8046210ED32
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 22
+  response: |-
+    7E803410493
+    7E8046210ED48
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 31
+  response: |-
+    7E8034104B1
+    7E8046210ED51
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 33
+  response: |-
+    7E8034104FF
+    7E8046210ED53
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 0
+  response: |-
+    7E80341067F
+    7E8046210ED32
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 24
+  response: |-
+    7E804410C1280
+    7E8046210ED4A
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 18
+  response: |-
+    7E804410C1CF5
+    7E8046210ED44
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 2
+  response: |-
+    7E804411001B0
+    7E8046210ED34
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 2
+  response: |-
+    7E80441446EA9
+    7E8046210ED34
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 0
+  response: |-
+    7E80441448000
+    7E8046210ED32
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 0
+  response: |-
+    7E8046210B037
+    7E8046210ED32
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: -1
+  response: 7E8046210ED31
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 0
+  response: |-
+    7E8046210ED32
+    7E8046210ED32
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 28
+  response: |-
+    7E8046210ED4D
+    7E8046210ED4E
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 32
+  response: |-
+    7E8046210ED52
+    7E8046210ED52
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 50
+  response: 7E8046210ED64
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 30
+  response: |-
+    7E80462123300
+    7E8046210ED50
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 36
+  response: |-
+    7E80562128901D3
+    7E8046210ED56
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 32
+  response: |-
+    7E80562128A7530
+    7E8046210ED52
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 30
+  response: |-
+    7E80562128C0000
+    7E8046210ED50
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 39
+  response: |-
+    7E80562128E757D
+    7E8046210ED59
+- expected_values:
+    IMPREZA_EXH_VVT_RETARD_ANG_LEFT: 33
+  response: |-
+    7E82100365100000000
+    7E8046210ED53

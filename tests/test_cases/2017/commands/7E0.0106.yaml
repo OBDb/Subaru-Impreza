@@ -1,0 +1,63 @@
+command_id: 7E0.0106
+test_cases:
+- expected_values:
+    SHRTFT1: 0
+  response: |-
+    7E803410427
+    7E803410680
+- expected_values:
+    SHRTFT1: -0.78125
+  response: |-
+    7E803410457
+    7E80341067F
+- expected_values:
+    SHRTFT1: -3.90625
+  response: |-
+    7E8034104FF
+    7E80341067B
+- expected_values:
+    SHRTFT1: -28.90625
+  response: 7E80341065B
+- expected_values:
+    SHRTFT1: 14.0625
+  response: '7E803410692'
+- expected_values:
+    SHRTFT1: -2.34375
+  response: |-
+    7E803410D00
+    7E80341067D
+- expected_values:
+    SHRTFT1: -0.78125
+  response: |-
+    7E804410C23F7
+    7E80341067F
+- expected_values:
+    SHRTFT1: 0
+  response: |-
+    7E8044110004C
+    7E803410680
+- expected_values:
+    SHRTFT1: 3.90625
+  response: |-
+    7E804411008FF
+    7E803410685
+- expected_values:
+    SHRTFT1: 0.78125
+  response: |-
+    7E804413199C0
+    7E803410681
+- expected_values:
+    SHRTFT1: 6.25
+  response: |-
+    7E80441447C1E
+    7E803410688
+- expected_values:
+    SHRTFT1: 0
+  response: |-
+    7E80441448000
+    7E803410680
+- expected_values:
+    SHRTFT1: 4.6875
+  response: |-
+    7E80462127837
+    7E803410686

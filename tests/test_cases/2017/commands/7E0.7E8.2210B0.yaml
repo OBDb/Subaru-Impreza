@@ -1,0 +1,106 @@
+command_id: 7E0.7E8.2210B0
+test_cases:
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.1
+  response: |-
+    7E80341045D
+    7E8046210B037
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.1
+  response: |-
+    7E803410487
+    7E8046210B037
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.08
+  response: |-
+    7E803410D02
+    7E8046210B036
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 3.92
+  response: |-
+    7E803410D78
+    7E8046210B0C4
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.1
+  response: |-
+    7E8044110010C
+    7E8046210B037
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.1
+  response: |-
+    7E804411F05D9
+    7E8046210B037
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.1
+  response: |-
+    7E80441430040
+    7E8046210B037
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.1
+  response: |-
+    7E80441447F5F
+    7E8046210B037
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.08
+  response: |-
+    7E80441448000
+    7E8046210B036
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 3.86
+  response: |-
+    7E8044144822D
+    7E8046210B0C1
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.16
+  response: |-
+    7E8046210A30D
+    7E8046210B03A
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.08
+  response: 7E8046210B036
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.1
+  response: 7E8046210B037
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 3.94
+  response: 7E8046210B0C5
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.1
+  response: |-
+    7E8046210ED57
+    7E8046210B037
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.1
+  response: |-
+    7E8056212890137
+    7E8046210B037
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.96
+  response: |-
+    7E80562128901FE
+    7E8046210B062
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.1
+  response: |-
+    7E80562128D0006
+    7E8046210B037
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.1
+  response: |-
+    7E80562128E757D
+    7E8046210B037
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.12
+  response: |-
+    7E80562128E757D
+    7E8046210B038
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 1.1
+  response: |-
+    7E8056212980000
+    7E8046210B037
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS_SENS: 3.86
+  response: |-
+    7E82100155D00000000
+    7E8046210B0C1

@@ -1,0 +1,88 @@
+command_id: 7E0.7E8.221299
+test_cases:
+- expected_values:
+    IMPREZA_TRANS_LOCK_UP: 0
+  response: |-
+    7E80341046E
+    7E80462129900
+- expected_values:
+    IMPREZA_TRANS_LOCK_UP: 4
+  response: |-
+    7E80341067E
+    7E80462129904
+- expected_values:
+    IMPREZA_TRANS_LOCK_UP: 4
+  response: |-
+    7E803410685
+    7E80462129904
+- expected_values:
+    IMPREZA_TRANS_LOCK_UP: 2
+  response: |-
+    7E8044110043A
+    7E80462129902
+- expected_values:
+    IMPREZA_TRANS_LOCK_UP: 4
+  response: |-
+    7E80441430045
+    7E80462129904
+- expected_values:
+    IMPREZA_TRANS_LOCK_UP: 4
+  response: |-
+    7E8046210A32C
+    7E80462129904
+- expected_values:
+    IMPREZA_TRANS_LOCK_UP: 0
+  response: |-
+    7E8046210B037
+    7E80462129900
+- expected_values:
+    IMPREZA_TRANS_LOCK_UP: 4
+  response: |-
+    7E8046210B0C3
+    7E80462129904
+- expected_values:
+    IMPREZA_TRANS_LOCK_UP: 0
+  response: |-
+    7E8046210ED32
+    7E80462129900
+- expected_values:
+    IMPREZA_TRANS_LOCK_UP: 0
+  response: '7E80462129900'
+- expected_values:
+    IMPREZA_TRANS_LOCK_UP: 0
+  response: |-
+    7E80462129900
+    7E80462129900
+- expected_values:
+    IMPREZA_TRANS_LOCK_UP: 4
+  response: '7E80462129904'
+- expected_values:
+    IMPREZA_TRANS_LOCK_UP: 4
+  response: |-
+    7E805621289012D
+    7E80462129904
+- expected_values:
+    IMPREZA_TRANS_LOCK_UP: 4
+  response: |-
+    7E8056212890182
+    7E80462129904
+- expected_values:
+    IMPREZA_TRANS_LOCK_UP: 2
+  response: |-
+    7E80562128C0000
+    7E80462129902
+- expected_values:
+    IMPREZA_TRANS_LOCK_UP: 0
+  response: |-
+    7E80562128D0003
+    7E80462129900
+- expected_values:
+    IMPREZA_TRANS_LOCK_UP: 4
+  response: |-
+    7E80562128E757D
+    7E80462129904
+- expected_values:
+    IMPREZA_TRANS_LOCK_UP: 4
+  response: |-
+    7E805621298043B
+    7E80462129904

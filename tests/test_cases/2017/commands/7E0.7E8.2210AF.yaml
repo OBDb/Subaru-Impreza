@@ -1,0 +1,73 @@
+command_id: 7E0.7E8.2210AF
+test_cases:
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 1.06
+  response: |-
+    7E803410440
+    7E8046210AF35
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 1.06
+  response: |-
+    7E8034104A3
+    7E8046210AF35
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 1.08
+  response: |-
+    7E80341067D
+    7E8046210AF36
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 3.94
+  response: |-
+    7E804410C2FBE
+    7E8046210AFC5
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 1.08
+  response: |-
+    7E80441100175
+    7E8046210AF36
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 1.08
+  response: |-
+    7E8044143004C
+    7E8046210AF36
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 1.08
+  response: |-
+    7E804414300EE
+    7E8046210AF36
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 3.92
+  response: |-
+    7E80441447F89
+    7E8046210AFC4
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 1.08
+  response: |-
+    7E8046210A30A
+    7E8046210AF36
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 1.06
+  response: 7E8046210AF35
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 3.94
+  response: 7E8046210AFC5
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 1.06
+  response: |-
+    7E8046210EC32
+    7E8046210AF35
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 1.08
+  response: |-
+    7E80462123300
+    7E8046210AF36
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 1.08
+  response: |-
+    7E805621289017B
+    7E8046210AF36
+- expected_values:
+    IMPREZA_TUMBLE_GEN_VLV_POS: 1.08
+  response: |-
+    7E8056212980277
+    7E8046210AF36

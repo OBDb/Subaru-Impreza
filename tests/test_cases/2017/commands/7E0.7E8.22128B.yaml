@@ -1,0 +1,28 @@
+command_id: 7E0.7E8.22128B
+test_cases:
+- expected_values:
+    IMPREZA_IDLE_SPD_CTRL: 0.08
+  response: |-
+    7E8046210AF35
+    7E80562128B7538
+- expected_values:
+    IMPREZA_IDLE_SPD_CTRL: 0.24
+  response: |-
+    7E804621275A6
+    7E80562128B7548
+- expected_values:
+    IMPREZA_IDLE_SPD_CTRL: -0.2
+  response: |-
+    7E80462127822
+    7E80562128B751C
+- expected_values:
+    IMPREZA_IDLE_SPD_CTRL: -0.36
+  response: 7E80562128B750C
+- expected_values:
+    IMPREZA_IDLE_SPD_CTRL: 0.24
+  response: 7E80562128B7548
+- expected_values:
+    IMPREZA_IDLE_SPD_CTRL: -0.2
+  response: |-
+    7E8210011A300000000
+    7E80562128B751C

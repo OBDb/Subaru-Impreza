@@ -1,0 +1,77 @@
+command_id: 7E0.011F
+test_cases:
+- expected_values:
+    RUNTM: 1552
+  response: |-
+    7E803410430
+    7E804411F0610
+- expected_values:
+    RUNTM: 1119
+  response: |-
+    7E80341048E
+    7E804411F045F
+- expected_values:
+    RUNTM: 1847
+  response: |-
+    7E8034104B4
+    7E804411F0737
+- expected_values:
+    RUNTM: 791
+  response: |-
+    7E8034104EF
+    7E804411F0317
+- expected_values:
+    RUNTM: 462
+  response: |-
+    7E803410681
+    7E804411F01CE
+- expected_values:
+    RUNTM: 853
+  response: |-
+    7E803410D5A
+    7E804411F0355
+- expected_values:
+    RUNTM: 895
+  response: |-
+    7E804411000D8
+    7E804411F037F
+- expected_values:
+    RUNTM: 1818
+  response: |-
+    7E80441100163
+    7E804411F071A
+- expected_values:
+    RUNTM: 96
+  response: 7E804411F0060
+- expected_values:
+    RUNTM: 256
+  response: 7E804411F0100
+- expected_values:
+    RUNTM: 508
+  response: 7E804411F01FC
+- expected_values:
+    RUNTM: 939
+  response: 7E804411F03AB
+- expected_values:
+    RUNTM: 2644
+  response: 7E804411F0A54
+- expected_values:
+    RUNTM: 1389
+  response: |-
+    7E80441447F10
+    7E804411F056D
+- expected_values:
+    RUNTM: 1202
+  response: |-
+    7E8046210A30A
+    7E804411F04B2
+- expected_values:
+    RUNTM: 523
+  response: |-
+    7E8046212905A
+    7E804411F020B
+- expected_values:
+    RUNTM: 1320
+  response: |-
+    7E80562128A7530
+    7E804411F0528

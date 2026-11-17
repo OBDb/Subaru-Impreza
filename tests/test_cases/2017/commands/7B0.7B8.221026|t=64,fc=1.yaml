@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     IMPREZA_RR_VSS: 0
   response: 7B8056210260000
+- expected_values:
+    IMPREZA_RR_VSS: 14.34375
+  response: 7B80562102600FF
+- expected_values:
+    IMPREZA_RR_VSS: 51.46875
+  response: 7B8056210260393
+- expected_values:
+    IMPREZA_RR_VSS: 129.6
+  response: 7B8056210260900

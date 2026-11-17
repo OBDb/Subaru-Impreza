@@ -1,0 +1,91 @@
+command_id: 7E0.7E8.22128D
+test_cases:
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: |-
+    7E80341042E
+    7E80562128D0006
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: |-
+    7E80341045D
+    7E80562128D0003
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: |-
+    7E803410476
+    7E80562128D002D
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: |-
+    7E80341067C
+    7E80562128D0006
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: |-
+    7E80341067F
+    7E80562128D0006
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: |-
+    7E80441100111
+    7E80562128D0006
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: |-
+    7E80441100190
+    7E80562128D0010
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: |-
+    7E80441430076
+    7E80562128D002D
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: |-
+    7E80441447F4E
+    7E80562128D0037
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: |-
+    7E8046210A30D
+    7E80562128D0037
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: |-
+    7E8046210ED41
+    7E80562128D0006
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: |-
+    7E80462123300
+    7E80562128D0006
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: |-
+    7E804621233FF
+    7E80562128D0010
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: |-
+    7E80562128A7530
+    7E80562128D0010
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: 7E80562128D0003
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: 7E80562128D0006
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: |-
+    7E80562128D0006
+    7E80562128D0006
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: |-
+    7E80562128D0009
+    7E80562128D0009
+- expected_values:
+    IMPREZA_ELEC_LOAD_FEEDBACK: 0
+  response: 7E80562128D0073

@@ -1,0 +1,94 @@
+command_id: 7E0.7E8.22128A
+test_cases:
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: 0.36
+  response: |-
+    7E803410462
+    7E80562128A7554
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: 0
+  response: |-
+    7E803410586
+    7E80562128A7530
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: 0
+  response: |-
+    7E80341067E
+    7E80562128A7530
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: 0.04
+  response: |-
+    7E803410689
+    7E80562128A7534
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: -0.04
+  response: |-
+    7E80441100191
+    7E80562128A752C
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: 0
+  response: |-
+    7E804411001E5
+    7E80562128A7530
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: 0
+  response: |-
+    7E80441430032
+    7E80562128A7530
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: 0.65
+  response: |-
+    7E80441430039
+    7E80562128A7571
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: 0
+  response: |-
+    7E80441447F9F
+    7E80562128A7530
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: 0
+  response: |-
+    7E8046210A324
+    7E80562128A7530
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: -0.61
+  response: |-
+    7E8046210ED32
+    7E80562128A74F3
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: -0.05
+  response: |-
+    7E804621233FF
+    7E80562128A752B
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: 0
+  response: |-
+    7E80462129904
+    7E80562128A7530
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: -0.63
+  response: 7E80562128A74F1
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: -0.49
+  response: 7E80562128A74FF
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: -0.39
+  response: 7E80562128A7509
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: 0
+  response: |-
+    7E80562128A7530
+    7E80562128A7530
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: 0.4
+  response: 7E80562128A7558
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: 0
+  response: |-
+    7E80562128C0000
+    7E80562128A7530
+- expected_values:
+    IMPREZA_IDLE_MAF_FEEDBACK: 0
+  response: |-
+    7E805621298086D
+    7E80562128A7530
