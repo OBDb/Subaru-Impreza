@@ -1,8 +1,14 @@
 command_id: 7A2.7AA.221321
 test_cases:
 - expected_values:
-    IMPREZA_BAT_TERMINAL_VOLTAGE: 0
+    IMPREZA_BAT_TERMINAL_VOLTAGE: null
   response: 7AA056213210000
+- expected_values:
+    IMPREZA_BAT_TERMINAL_VOLTAGE: 10.947
+  response: 7AA056213212AC3
+- expected_values:
+    IMPREZA_BAT_TERMINAL_VOLTAGE: 12.288
+  response: 7AA056213213000
 - expected_values:
     IMPREZA_BAT_TERMINAL_VOLTAGE: 13.055
   response: 7AA0562132132FF
