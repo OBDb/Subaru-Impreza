@@ -522,7 +522,7 @@
   "signals": [
     {"id": "IMPREZA_TUMBLE_GEN_VLV_POS_SENS", "path": "Engine", "fmt": { "len": 8, "max": 5.1, "div": 50, "unit": "volts" }, "name": "Tumble generator valve position sensor left"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "tmo": "64", "fcm1": true, "cmd": {"22": "10E5"}, "freq": 30, "dbgfilter": { "to": 2014, "years": [2016, 2022], "from": 2025 },
+{ "hdr": "7E0", "rax": "7E8", "tmo": "64", "fcm1": true, "cmd": {"22": "10E5"}, "freq": 30, "dbgfilter": { "to": 2016, "years": [2022], "from": 2025 },
   "signals": [
     {"id": "IMPREZA_ODO", "path": "Trips", "fmt": { "len": 16, "max": 131070, "mul": 2, "nullmax": 131070, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
