@@ -48,15 +48,15 @@ test_cases:
     7E804411000B9
     7E803410586
 - expected_values:
-    ECT: 61
-  response: |-
-    7E804411002E9
-    7E803410565
-- expected_values:
     ECT: 82
   response: |-
     7E804411006FF
     7E80341057A
+- expected_values:
+    ECT: 44
+  response: |-
+    7E8044131A252
+    7E803410554
 - expected_values:
     ECT: 93
   response: |-
